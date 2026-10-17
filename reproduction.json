@@ -1,0 +1,37 @@
+{
+  "repository": "forecasting-replay-lab",
+  "profiles": {
+    "checks": {
+      "scope": "Offline behavioral and integration regressions; not a fresh dataset benchmark",
+      "commands": [
+        [
+          "{python}",
+          "-m",
+          "pytest",
+          "-q",
+          "tests"
+        ]
+      ]
+    },
+    "synthetic-controls": {
+      "scope": "Three explicitly synthetic controls; no financial return claim",
+      "commands": [
+        [
+          "{python}",
+          "reproduce.py",
+          "--output",
+          "{output}/controls"
+        ]
+      ]
+    }
+  },
+  "version_packages": [
+    "numpy",
+    "torch",
+    "pandas",
+    "scikit-learn",
+    "gymnasium",
+    "pytest"
+  ],
+  "external_evidence_limits": "See BENCHMARKS.md and DATA.md. Passing contract checks does not certify historical accuracy, live providers, physical safety or business outcomes."
+}

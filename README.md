@@ -10,6 +10,15 @@ A market-anchored probability model, shrinkage calibration, event-purged expandi
 
 ![Implementation mechanism: Timestamped event rows → Expanding train and calibration folds → Purge event overlap and embargo boundaries → Fit market-anchored correction and shrinkage → Score outer folds against market baseline](assets/mechanism.svg)
 
+
+
+## Reproduce and inspect
+
+The executable reproduction profile now records exact commands, input/source hashes, dependency versions, logs and pass/fail status. Its scope distinguishes behavior checks from full-data benchmarks.
+
+[Commands, artifacts and benchmark scope](BENCHMARKS.md) · [Versioned profiles](reproduction.json)
+
+
 ## Try a small example
 
 Generated market-like rows exercise fold construction and scoring. These scores are not results on live markets or evidence of trading benefit.
