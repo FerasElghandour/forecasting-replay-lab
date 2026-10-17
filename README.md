@@ -58,3 +58,7 @@ The reproduction command generates synthetic input locally and writes a new fold
 A research and replay tool. Synthetic gains do not establish attainable financial returns. Historical model scores and assumed-fill results have different evidential scope. Fee schedules and API behavior require independent current verification before a new study.
 
 [Validation record](VALIDATION.md) · [Inputs and applicable notices](DATA.md)
+
+## Reuse
+
+The original contributions listed in [LICENSING.md](LICENSING.md) are available under [MIT](LICENSE). This scoped grant preserves upstream notices and separate dataset, simulator, notebook and checkpoint terms.
