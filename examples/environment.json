@@ -1,0 +1,18 @@
+{
+  "python": "3.14.3",
+  "libraries": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "torch": "2.14.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "statsmodels": "0.15.0",
+    "SQLAlchemy": "2.1.5",
+    "pydantic": "2.14.1"
+  },
+  "verified_utc": "2026-10-17T18:54:18.559246+00:00",
+  "command": "python examples/quickstart.py",
+  "returncode": 0,
+  "inputs": "Offline fixtures or retained public artifacts; see README and example source.",
+  "scope": "Generated market-like rows exercise fold construction and scoring. These scores are not results on live markets or evidence of trading benefit."
+}

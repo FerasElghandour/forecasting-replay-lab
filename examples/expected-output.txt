@@ -1,0 +1,1 @@
+{'rows': 250, 'events': 250, 'fitted_rows': 250, 'market_brier': 0.20102622436081138, 'forecast_brier': 0.17513378455788578}

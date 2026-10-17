@@ -8,12 +8,24 @@ Evaluate whether an added signal improves probability forecasts while preserving
 
 A market-anchored probability model, shrinkage calibration, event-purged expanding evaluation, uncertainty summaries, and cash-constrained hypothetical replay. Public-data adapters are GET-only; no orders, credentials, or account operations are implemented.
 
-```mermaid
-flowchart LR
- A[Timestamped observations] --> B[Availability and event checks]
- B --> C[Expanding fit and calibration]
- C --> D[Untouched outer scoring]
- D --> E[Evidence-constrained hypothetical replay]
+![Implementation mechanism: Timestamped event rows → Expanding train and calibration folds → Purge event overlap and embargo boundaries → Fit market-anchored correction and shrinkage → Score outer folds against market baseline](assets/mechanism.svg)
+
+## Try a small example
+
+Generated market-like rows exercise fold construction and scoring. These scores are not results on live markets or evidence of trading benefit.
+
+After the local setup below, run from the repository root:
+
+```sh
+python examples/quickstart.py
+```
+
+The [example source](examples/quickstart.py), [captured output](examples/expected-output.txt) and [execution record](examples/environment.json) keep this demonstration inspectable. Floating-point values may vary with library versions.
+
+Observed output from this run:
+
+```text
+{'rows': 250, 'events': 250, 'fitted_rows': 250, 'market_brier': 0.20102622436081138, 'forecast_brier': 0.17513378455788578}
 ```
 
 ## Evidence and results
