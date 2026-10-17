@@ -1,0 +1,44 @@
+[
+  {
+    "net_pnl": 409.04000000000474,
+    "trade_count": 404,
+    "total_fees": 20.303,
+    "assumptions": {
+      "contracts": 10,
+      "min_edge": 0.03,
+      "slippage_per_share": 0.0,
+      "max_event_cost": 50.0,
+      "assume_depth": true,
+      "assume_fee_rate": 0.07,
+      "max_quote_age_seconds": 7200.0
+    }
+  },
+  {
+    "net_pnl": 389.01000000001113,
+    "trade_count": 387,
+    "total_fees": 21.016999999999996,
+    "assumptions": {
+      "contracts": 10,
+      "min_edge": 0.03,
+      "slippage_per_share": 0.005,
+      "max_event_cost": 50.0,
+      "assume_depth": true,
+      "assume_fee_rate": 0.07,
+      "max_quote_age_seconds": 7200.0
+    }
+  },
+  {
+    "net_pnl": 323.93999999999755,
+    "trade_count": 360,
+    "total_fees": 23.504999999999995,
+    "assumptions": {
+      "contracts": 10,
+      "min_edge": 0.03,
+      "slippage_per_share": 0.02,
+      "max_event_cost": 50.0,
+      "assume_depth": true,
+      "assume_fee_rate": 0.07,
+      "max_quote_age_seconds": 7200.0
+    }
+  }
+]

@@ -1,0 +1,1646 @@
+{
+  "hypothetical_only": true,
+  "initial_capital": 1000.0,
+  "final_cash": 965.9205028373253,
+  "net_pnl": -34.07949716267467,
+  "return_on_initial_capital": -0.034079497162674666,
+  "total_fees": 9.344160468271404,
+  "trade_count": 60,
+  "max_cost_basis_drawdown": 49.60279127184731,
+  "skipped": {
+    "edge_below_threshold": 540
+  },
+  "assumptions": {
+    "contracts": 10,
+    "min_edge": 0.03,
+    "slippage_per_share": 0.005,
+    "max_event_cost": 50.0,
+    "assume_depth": false,
+    "assume_fee_rate": null,
+    "max_quote_age_seconds": 300
+  },
+  "trades": [
+    {
+      "market_id": "null-900",
+      "event_id": "synthetic:null-900",
+      "ts": 1723507200,
+      "settlement_ts": 1723597200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7721833210522077,
+      "fee": 0.128166789477923,
+      "cost": 7.85,
+      "payout": 0,
+      "net_pnl": -7.85,
+      "estimated_edge": 0.030103020643574063,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-910",
+      "event_id": "synthetic:null-910",
+      "ts": 1723723200,
+      "settlement_ts": 1723813200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7545759705517148,
+      "fee": 0.134240294482852,
+      "cost": 7.679999999999999,
+      "payout": 10,
+      "net_pnl": 2.320000000000001,
+      "estimated_edge": 0.03407248395938367,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-913",
+      "event_id": "synthetic:null-913",
+      "ts": 1723788000,
+      "settlement_ts": 1723878000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6095618603112077,
+      "fee": 0.1666,
+      "cost": 6.2622186031120775,
+      "payout": 10,
+      "net_pnl": 3.7377813968879225,
+      "estimated_edge": 0.030529985699364715,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-921",
+      "event_id": "synthetic:null-921",
+      "ts": 1723960800,
+      "settlement_ts": 1724050800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7226918404413271,
+      "fee": 0.14029,
+      "cost": 7.367208404413271,
+      "payout": 10,
+      "net_pnl": 2.6327915955867294,
+      "estimated_edge": 0.038214451972150565,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-924",
+      "event_id": "synthetic:null-924",
+      "ts": 1724025600,
+      "settlement_ts": 1724115600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5736044076521978,
+      "fee": 0.173955923478022,
+      "cost": 5.91,
+      "payout": 10,
+      "net_pnl": 4.09,
+      "estimated_edge": 0.03618256492167671,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-926",
+      "event_id": "synthetic:null-926",
+      "ts": 1724068800,
+      "settlement_ts": 1724158800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7299166779297402,
+      "fee": 0.140833220702598,
+      "cost": 7.44,
+      "payout": 10,
+      "net_pnl": 2.5599999999999996,
+      "estimated_edge": 0.033219350180201945,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-931",
+      "event_id": "synthetic:null-931",
+      "ts": 1724176800,
+      "settlement_ts": 1724266800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6882180324950816,
+      "fee": 0.1502,
+      "cost": 7.032380324950816,
+      "payout": 10,
+      "net_pnl": 2.9676196750491837,
+      "estimated_edge": 0.035490648669919134,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-932",
+      "event_id": "synthetic:null-932",
+      "ts": 1724198400,
+      "settlement_ts": 1724288400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5938103854383473,
+      "fee": 0.171896145616527,
+      "cost": 6.11,
+      "payout": 10,
+      "net_pnl": 3.8899999999999997,
+      "estimated_edge": 0.03227807686637263,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-936",
+      "event_id": "synthetic:null-936",
+      "ts": 1724284800,
+      "settlement_ts": 1724374800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5729830974361115,
+      "fee": 0.180169025638885,
+      "cost": 5.91,
+      "payout": 0,
+      "net_pnl": -5.91,
+      "estimated_edge": 0.03276470071292237,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-940",
+      "event_id": "synthetic:null-940",
+      "ts": 1724371200,
+      "settlement_ts": 1724461200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6795783272293038,
+      "fee": 0.154216727706962,
+      "cost": 6.95,
+      "payout": 0,
+      "net_pnl": -6.95,
+      "estimated_edge": 0.03767155016126167,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-941",
+      "event_id": "synthetic:null-941",
+      "ts": 1724392800,
+      "settlement_ts": 1724482800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6367800781568397,
+      "fee": 0.1619,
+      "cost": 6.529700781568397,
+      "payout": 10,
+      "net_pnl": 3.4702992184316033,
+      "estimated_edge": 0.03785371207024246,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-942",
+      "event_id": "synthetic:null-942",
+      "ts": 1724414400,
+      "settlement_ts": 1724504400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7041299867605277,
+      "fee": 0.148700132394723,
+      "cost": 7.1899999999999995,
+      "payout": 10,
+      "net_pnl": 2.8100000000000005,
+      "estimated_edge": 0.04077749931766028,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-950",
+      "event_id": "synthetic:null-950",
+      "ts": 1724587200,
+      "settlement_ts": 1724677200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7804927749885127,
+      "fee": 0.125072250114873,
+      "cost": 7.93,
+      "payout": 10,
+      "net_pnl": 2.0700000000000003,
+      "estimated_edge": 0.030370963152128394,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-952",
+      "event_id": "synthetic:null-952",
+      "ts": 1724630400,
+      "settlement_ts": 1724720400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6271039472680785,
+      "fee": 0.168960527319215,
+      "cost": 6.44,
+      "payout": 0,
+      "net_pnl": -6.44,
+      "estimated_edge": 0.036095250623451425,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-954",
+      "event_id": "synthetic:null-954",
+      "ts": 1724673600,
+      "settlement_ts": 1724763600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6115506402331712,
+      "fee": 0.174493597668288,
+      "cost": 6.29,
+      "payout": 10,
+      "net_pnl": 3.71,
+      "estimated_edge": 0.033620385384464546,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-955",
+      "event_id": "synthetic:null-955",
+      "ts": 1724695200,
+      "settlement_ts": 1724785200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6460286144468043,
+      "fee": 0.16007,
+      "cost": 6.620356144468043,
+      "payout": 10,
+      "net_pnl": 3.379643855531957,
+      "estimated_edge": 0.035782553684237106,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-960",
+      "event_id": "synthetic:null-960",
+      "ts": 1724803200,
+      "settlement_ts": 1724893200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5631269264714611,
+      "fee": 0.178730735285389,
+      "cost": 5.81,
+      "payout": 0,
+      "net_pnl": -5.81,
+      "estimated_edge": 0.030163177216973036,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-967",
+      "event_id": "synthetic:null-967",
+      "ts": 1724954400,
+      "settlement_ts": 1725044400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7859560576576226,
+      "fee": 0.11776,
+      "cost": 7.977320576576225,
+      "payout": 0,
+      "net_pnl": -7.977320576576225,
+      "estimated_edge": 0.030380035586578202,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-969",
+      "event_id": "synthetic:null-969",
+      "ts": 1724997600,
+      "settlement_ts": 1725087600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7164415152511947,
+      "fee": 0.14221,
+      "cost": 7.306625152511947,
+      "payout": 0,
+      "net_pnl": -7.306625152511947,
+      "estimated_edge": 0.03601156270642225,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-982",
+      "event_id": "synthetic:null-982",
+      "ts": 1725278400,
+      "settlement_ts": 1725368400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7485567998262778,
+      "fee": 0.134432001737222,
+      "cost": 7.62,
+      "payout": 10,
+      "net_pnl": 2.38,
+      "estimated_edge": 0.03553068952674643,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-984",
+      "event_id": "synthetic:null-984",
+      "ts": 1725321600,
+      "settlement_ts": 1725411600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.733292726793144,
+      "fee": 0.13707273206856,
+      "cost": 7.47,
+      "payout": 0,
+      "net_pnl": -7.47,
+      "estimated_edge": 0.03454266013858043,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-987",
+      "event_id": "synthetic:null-987",
+      "ts": 1725386400,
+      "settlement_ts": 1725476400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.736435312299628,
+      "fee": 0.13587,
+      "cost": 7.50022312299628,
+      "payout": 10,
+      "net_pnl": 2.49977687700372,
+      "estimated_edge": 0.03527611216335469,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-988",
+      "event_id": "synthetic:null-988",
+      "ts": 1725408000,
+      "settlement_ts": 1725498000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.592159922862879,
+      "fee": 0.17840077137121,
+      "cost": 6.1000000000000005,
+      "payout": 0,
+      "net_pnl": -6.1000000000000005,
+      "estimated_edge": 0.03348155206330161,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-995",
+      "event_id": "synthetic:null-995",
+      "ts": 1725559200,
+      "settlement_ts": 1725649200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7414155101340703,
+      "fee": 0.1342,
+      "cost": 7.548355101340702,
+      "payout": 0,
+      "net_pnl": -7.548355101340702,
+      "estimated_edge": 0.031890042970053045,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1000",
+      "event_id": "synthetic:null-1000",
+      "ts": 1725667200,
+      "settlement_ts": 1725757200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5605192072314255,
+      "fee": 0.174807927685745,
+      "cost": 5.779999999999999,
+      "payout": 10,
+      "net_pnl": 4.220000000000001,
+      "estimated_edge": 0.031713474268117436,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1002",
+      "event_id": "synthetic:null-1002",
+      "ts": 1725710400,
+      "settlement_ts": 1725800400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7650744976065623,
+      "fee": 0.129255023934377,
+      "cost": 7.78,
+      "payout": 10,
+      "net_pnl": 2.2199999999999998,
+      "estimated_edge": 0.03114030530650913,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1005",
+      "event_id": "synthetic:null-1005",
+      "ts": 1725775200,
+      "settlement_ts": 1725865200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7513600095166572,
+      "fee": 0.13077,
+      "cost": 7.644370095166572,
+      "payout": 0,
+      "net_pnl": -7.644370095166572,
+      "estimated_edge": 0.03212846112523471,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1013",
+      "event_id": "synthetic:null-1013",
+      "ts": 1725948000,
+      "settlement_ts": 1726038000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7060560297219115,
+      "fee": 0.14528,
+      "cost": 7.2058402972191145,
+      "payout": 0,
+      "net_pnl": -7.2058402972191145,
+      "estimated_edge": 0.04129889000283937,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1017",
+      "event_id": "synthetic:null-1017",
+      "ts": 1726034400,
+      "settlement_ts": 1726124400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5901172060954792,
+      "fee": 0.16932,
+      "cost": 6.070492060954792,
+      "payout": 10,
+      "net_pnl": 3.929507939045208,
+      "estimated_edge": 0.03061717181145507,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1020",
+      "event_id": "synthetic:null-1020",
+      "ts": 1726099200,
+      "settlement_ts": 1726189200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6549882595729003,
+      "fee": 0.160117404270997,
+      "cost": 6.71,
+      "payout": 10,
+      "net_pnl": 3.29,
+      "estimated_edge": 0.037894392603766036,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1021",
+      "event_id": "synthetic:null-1021",
+      "ts": 1726120800,
+      "settlement_ts": 1726210800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6369547726069943,
+      "fee": 0.16187,
+      "cost": 6.531417726069943,
+      "payout": 10,
+      "net_pnl": 3.468582273930057,
+      "estimated_edge": 0.03373897339596832,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1024",
+      "event_id": "synthetic:null-1024",
+      "ts": 1726185600,
+      "settlement_ts": 1726275600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6366982089439069,
+      "fee": 0.163017910560931,
+      "cost": 6.53,
+      "payout": 10,
+      "net_pnl": 3.4699999999999998,
+      "estimated_edge": 0.03812436250665796,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1027",
+      "event_id": "synthetic:null-1027",
+      "ts": 1726250400,
+      "settlement_ts": 1726340400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7571737374531732,
+      "fee": 0.1287,
+      "cost": 7.700437374531732,
+      "payout": 10,
+      "net_pnl": 2.299562625468268,
+      "estimated_edge": 0.03358928521288551,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1028",
+      "event_id": "synthetic:null-1028",
+      "ts": 1726272000,
+      "settlement_ts": 1726362000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7636701423397722,
+      "fee": 0.133298576602278,
+      "cost": 7.77,
+      "payout": 10,
+      "net_pnl": 2.2300000000000004,
+      "estimated_edge": 0.035512506042782,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1030",
+      "event_id": "synthetic:null-1030",
+      "ts": 1726315200,
+      "settlement_ts": 1726405200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7336506883631966,
+      "fee": 0.143493116368034,
+      "cost": 7.4799999999999995,
+      "payout": 10,
+      "net_pnl": 2.5200000000000005,
+      "estimated_edge": 0.034583645878761615,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1031",
+      "event_id": "synthetic:null-1031",
+      "ts": 1726336800,
+      "settlement_ts": 1726426800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6217936139177197,
+      "fee": 0.16462,
+      "cost": 6.382556139177197,
+      "payout": 10,
+      "net_pnl": 3.617443860822803,
+      "estimated_edge": 0.036828282012931646,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1035",
+      "event_id": "synthetic:null-1035",
+      "ts": 1726423200,
+      "settlement_ts": 1726513200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7737202603686377,
+      "fee": 0.12255,
+      "cost": 7.859752603686378,
+      "payout": 10,
+      "net_pnl": 2.1402473963136224,
+      "estimated_edge": 0.03285138993749137,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1036",
+      "event_id": "synthetic:null-1036",
+      "ts": 1726444800,
+      "settlement_ts": 1726534800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6379358549125876,
+      "fee": 0.170641450874124,
+      "cost": 6.55,
+      "payout": 0,
+      "net_pnl": -6.55,
+      "estimated_edge": 0.03593292830378714,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1037",
+      "event_id": "synthetic:null-1037",
+      "ts": 1726466400,
+      "settlement_ts": 1726556400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7953352561725644,
+      "fee": 0.11394,
+      "cost": 8.067292561725644,
+      "payout": 0,
+      "net_pnl": -8.067292561725644,
+      "estimated_edge": 0.030371243145818405,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1041",
+      "event_id": "synthetic:null-1041",
+      "ts": 1726552800,
+      "settlement_ts": 1726642800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5428110053459249,
+      "fee": 0.17372,
+      "cost": 5.601830053459249,
+      "payout": 10,
+      "net_pnl": 4.398169946540751,
+      "estimated_edge": 0.03135140286449567,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1046",
+      "event_id": "synthetic:null-1046",
+      "ts": 1726660800,
+      "settlement_ts": 1726750800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6308351655545105,
+      "fee": 0.171648344454895,
+      "cost": 6.4799999999999995,
+      "payout": 0,
+      "net_pnl": -6.4799999999999995,
+      "estimated_edge": 0.03841069059929403,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1053",
+      "event_id": "synthetic:null-1053",
+      "ts": 1726812000,
+      "settlement_ts": 1726902000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5574189343180279,
+      "fee": 0.17269,
+      "cost": 5.74687934318028,
+      "payout": 10,
+      "net_pnl": 4.25312065681972,
+      "estimated_edge": 0.036093874643554846,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1056",
+      "event_id": "synthetic:null-1056",
+      "ts": 1726876800,
+      "settlement_ts": 1726966800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5874037112979392,
+      "fee": 0.175962887020608,
+      "cost": 6.050000000000001,
+      "payout": 10,
+      "net_pnl": 3.9499999999999993,
+      "estimated_edge": 0.03094623730090429,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1071",
+      "event_id": "synthetic:null-1071",
+      "ts": 1727200800,
+      "settlement_ts": 1727290800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5439043864112002,
+      "fee": 0.17365,
+      "cost": 5.6126938641120026,
+      "payout": 0,
+      "net_pnl": -5.6126938641120026,
+      "estimated_edge": 0.036070168768713606,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1096",
+      "event_id": "synthetic:null-1096",
+      "ts": 1727740800,
+      "settlement_ts": 1727830800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6727808093773057,
+      "fee": 0.162191906226943,
+      "cost": 6.89,
+      "payout": 0,
+      "net_pnl": -6.89,
+      "estimated_edge": 0.030828777692652687,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1100",
+      "event_id": "synthetic:null-1100",
+      "ts": 1727827200,
+      "settlement_ts": 1727917200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.49436586371000857,
+      "fee": 0.1763413628999143,
+      "cost": 5.12,
+      "payout": 10,
+      "net_pnl": 4.88,
+      "estimated_edge": 0.03623996645082861,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1106",
+      "event_id": "synthetic:null-1106",
+      "ts": 1727956800,
+      "settlement_ts": 1728046800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6617632149005576,
+      "fee": 0.162367850994424,
+      "cost": 6.779999999999999,
+      "payout": 10,
+      "net_pnl": 3.2200000000000006,
+      "estimated_edge": 0.031346941857282484,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1107",
+      "event_id": "synthetic:null-1107",
+      "ts": 1727978400,
+      "settlement_ts": 1728068400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5923566989718739,
+      "fee": 0.16903,
+      "cost": 6.092596989718739,
+      "payout": 0,
+      "net_pnl": -6.092596989718739,
+      "estimated_edge": 0.03220975613260413,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1113",
+      "event_id": "synthetic:null-1113",
+      "ts": 1728108000,
+      "settlement_ts": 1728198000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6586218588713543,
+      "fee": 0.15739,
+      "cost": 6.743608588713543,
+      "payout": 10,
+      "net_pnl": 3.256391411286457,
+      "estimated_edge": 0.03436858703684842,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1114",
+      "event_id": "synthetic:null-1114",
+      "ts": 1728129600,
+      "settlement_ts": 1728219600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7217797668500648,
+      "fee": 0.142202331499352,
+      "cost": 7.36,
+      "payout": 10,
+      "net_pnl": 2.6399999999999997,
+      "estimated_edge": 0.030051619955223874,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1132",
+      "event_id": "synthetic:null-1132",
+      "ts": 1728518400,
+      "settlement_ts": 1728608400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6341853415048623,
+      "fee": 0.168146584951377,
+      "cost": 6.51,
+      "payout": 10,
+      "net_pnl": 3.49,
+      "estimated_edge": 0.030258951276741053,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1135",
+      "event_id": "synthetic:null-1135",
+      "ts": 1728583200,
+      "settlement_ts": 1728673200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5722899902488462,
+      "fee": 0.17134,
+      "cost": 5.8942399024884615,
+      "payout": 0,
+      "net_pnl": -5.8942399024884615,
+      "estimated_edge": 0.03209704492113119,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1144",
+      "event_id": "synthetic:null-1144",
+      "ts": 1728777600,
+      "settlement_ts": 1728867600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5437366851397561,
+      "fee": 0.182633148602439,
+      "cost": 5.62,
+      "payout": 10,
+      "net_pnl": 4.38,
+      "estimated_edge": 0.0348183116848213,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1147",
+      "event_id": "synthetic:null-1147",
+      "ts": 1728842400,
+      "settlement_ts": 1728932400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7061956237117891,
+      "fee": 0.14524,
+      "cost": 7.207196237117891,
+      "payout": 0,
+      "net_pnl": -7.207196237117891,
+      "estimated_edge": 0.034692583877262706,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1154",
+      "event_id": "synthetic:null-1154",
+      "ts": 1728993600,
+      "settlement_ts": 1729083600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5318412338836508,
+      "fee": 0.181587661163492,
+      "cost": 5.5,
+      "payout": 10,
+      "net_pnl": 4.5,
+      "estimated_edge": 0.03496126223350737,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1155",
+      "event_id": "synthetic:null-1155",
+      "ts": 1729015200,
+      "settlement_ts": 1729105200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7343129089304463,
+      "fee": 0.13657,
+      "cost": 7.4796990893044635,
+      "payout": 10,
+      "net_pnl": 2.5203009106955365,
+      "estimated_edge": 0.030449900156937937,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1159",
+      "event_id": "synthetic:null-1159",
+      "ts": 1729101600,
+      "settlement_ts": 1729191600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5002878203896117,
+      "fee": 0.175,
+      "cost": 5.177878203896117,
+      "payout": 0,
+      "net_pnl": -5.177878203896117,
+      "estimated_edge": 0.03322287262497159,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1171",
+      "event_id": "synthetic:null-1171",
+      "ts": 1729360800,
+      "settlement_ts": 1729450800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6502650590951727,
+      "fee": 0.15919,
+      "cost": 6.661840590951727,
+      "payout": 0,
+      "net_pnl": -6.661840590951727,
+      "estimated_edge": 0.03505722232767028,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1172",
+      "event_id": "synthetic:null-1172",
+      "ts": 1729382400,
+      "settlement_ts": 1729472400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5812213894901775,
+      "fee": 0.177786105098225,
+      "cost": 5.99,
+      "payout": 10,
+      "net_pnl": 4.01,
+      "estimated_edge": 0.030420022302022454,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "null-1191",
+      "event_id": "synthetic:null-1191",
+      "ts": 1729792800,
+      "settlement_ts": 1729882800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.6495137229263251,
+      "fee": 0.15935,
+      "cost": 6.6544872292632515,
+      "payout": 0,
+      "net_pnl": -6.6544872292632515,
+      "estimated_edge": 0.034347062651249316,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    }
+  ],
+  "equity": [
+    {
+      "ts": 1723507200,
+      "cash": 992.15,
+      "cost_basis_equity": 1000.0
+    },
+    {
+      "ts": 1723597200,
+      "cash": 992.15,
+      "cost_basis_equity": 992.15
+    },
+    {
+      "ts": 1723723200,
+      "cash": 984.47,
+      "cost_basis_equity": 992.15
+    },
+    {
+      "ts": 1723788000,
+      "cash": 978.207781396888,
+      "cost_basis_equity": 992.1500000000001
+    },
+    {
+      "ts": 1723813200,
+      "cash": 988.207781396888,
+      "cost_basis_equity": 994.47
+    },
+    {
+      "ts": 1723878000,
+      "cash": 998.207781396888,
+      "cost_basis_equity": 998.207781396888
+    },
+    {
+      "ts": 1723960800,
+      "cash": 990.8405729924747,
+      "cost_basis_equity": 998.207781396888
+    },
+    {
+      "ts": 1724025600,
+      "cash": 984.9305729924747,
+      "cost_basis_equity": 998.207781396888
+    },
+    {
+      "ts": 1724050800,
+      "cash": 994.9305729924747,
+      "cost_basis_equity": 1000.8405729924747
+    },
+    {
+      "ts": 1724068800,
+      "cash": 987.4905729924747,
+      "cost_basis_equity": 1000.8405729924747
+    },
+    {
+      "ts": 1724115600,
+      "cash": 997.4905729924747,
+      "cost_basis_equity": 1004.9305729924747
+    },
+    {
+      "ts": 1724158800,
+      "cash": 1007.4905729924747,
+      "cost_basis_equity": 1007.4905729924747
+    },
+    {
+      "ts": 1724176800,
+      "cash": 1000.4581926675238,
+      "cost_basis_equity": 1007.4905729924747
+    },
+    {
+      "ts": 1724198400,
+      "cash": 994.3481926675238,
+      "cost_basis_equity": 1007.4905729924747
+    },
+    {
+      "ts": 1724266800,
+      "cash": 1004.3481926675238,
+      "cost_basis_equity": 1010.4581926675238
+    },
+    {
+      "ts": 1724284800,
+      "cash": 998.4381926675238,
+      "cost_basis_equity": 1010.4581926675238
+    },
+    {
+      "ts": 1724288400,
+      "cash": 1008.4381926675238,
+      "cost_basis_equity": 1014.3481926675238
+    },
+    {
+      "ts": 1724371200,
+      "cash": 1001.4881926675238,
+      "cost_basis_equity": 1014.3481926675238
+    },
+    {
+      "ts": 1724374800,
+      "cash": 1001.4881926675238,
+      "cost_basis_equity": 1008.4381926675238
+    },
+    {
+      "ts": 1724392800,
+      "cash": 994.9584918859554,
+      "cost_basis_equity": 1008.4381926675237
+    },
+    {
+      "ts": 1724414400,
+      "cash": 987.7684918859553,
+      "cost_basis_equity": 1008.4381926675237
+    },
+    {
+      "ts": 1724461200,
+      "cash": 987.7684918859553,
+      "cost_basis_equity": 1001.4881926675237
+    },
+    {
+      "ts": 1724482800,
+      "cash": 997.7684918859553,
+      "cost_basis_equity": 1004.9584918859554
+    },
+    {
+      "ts": 1724504400,
+      "cash": 1007.7684918859553,
+      "cost_basis_equity": 1007.7684918859553
+    },
+    {
+      "ts": 1724587200,
+      "cash": 999.8384918859554,
+      "cost_basis_equity": 1007.7684918859553
+    },
+    {
+      "ts": 1724630400,
+      "cash": 993.3984918859553,
+      "cost_basis_equity": 1007.7684918859553
+    },
+    {
+      "ts": 1724673600,
+      "cash": 987.1084918859553,
+      "cost_basis_equity": 1007.7684918859553
+    },
+    {
+      "ts": 1724677200,
+      "cash": 997.1084918859553,
+      "cost_basis_equity": 1009.8384918859554
+    },
+    {
+      "ts": 1724695200,
+      "cash": 990.4881357414873,
+      "cost_basis_equity": 1009.8384918859554
+    },
+    {
+      "ts": 1724720400,
+      "cash": 990.4881357414873,
+      "cost_basis_equity": 1003.3984918859554
+    },
+    {
+      "ts": 1724763600,
+      "cash": 1000.4881357414873,
+      "cost_basis_equity": 1007.1084918859553
+    },
+    {
+      "ts": 1724785200,
+      "cash": 1010.4881357414873,
+      "cost_basis_equity": 1010.4881357414873
+    },
+    {
+      "ts": 1724803200,
+      "cash": 1004.6781357414874,
+      "cost_basis_equity": 1010.4881357414873
+    },
+    {
+      "ts": 1724893200,
+      "cash": 1004.6781357414874,
+      "cost_basis_equity": 1004.6781357414874
+    },
+    {
+      "ts": 1724954400,
+      "cash": 996.7008151649112,
+      "cost_basis_equity": 1004.6781357414874
+    },
+    {
+      "ts": 1724997600,
+      "cash": 989.3941900123992,
+      "cost_basis_equity": 1004.6781357414874
+    },
+    {
+      "ts": 1725044400,
+      "cash": 989.3941900123992,
+      "cost_basis_equity": 996.7008151649112
+    },
+    {
+      "ts": 1725087600,
+      "cash": 989.3941900123992,
+      "cost_basis_equity": 989.3941900123992
+    },
+    {
+      "ts": 1725278400,
+      "cash": 981.7741900123992,
+      "cost_basis_equity": 989.3941900123992
+    },
+    {
+      "ts": 1725321600,
+      "cash": 974.3041900123992,
+      "cost_basis_equity": 989.3941900123992
+    },
+    {
+      "ts": 1725368400,
+      "cash": 984.3041900123992,
+      "cost_basis_equity": 991.7741900123992
+    },
+    {
+      "ts": 1725386400,
+      "cash": 976.8039668894029,
+      "cost_basis_equity": 991.7741900123991
+    },
+    {
+      "ts": 1725408000,
+      "cash": 970.7039668894029,
+      "cost_basis_equity": 991.7741900123991
+    },
+    {
+      "ts": 1725411600,
+      "cash": 970.7039668894029,
+      "cost_basis_equity": 984.3041900123991
+    },
+    {
+      "ts": 1725476400,
+      "cash": 980.7039668894029,
+      "cost_basis_equity": 986.8039668894029
+    },
+    {
+      "ts": 1725498000,
+      "cash": 980.7039668894029,
+      "cost_basis_equity": 980.7039668894029
+    },
+    {
+      "ts": 1725559200,
+      "cash": 973.1556117880622,
+      "cost_basis_equity": 980.7039668894029
+    },
+    {
+      "ts": 1725649200,
+      "cash": 973.1556117880622,
+      "cost_basis_equity": 973.1556117880622
+    },
+    {
+      "ts": 1725667200,
+      "cash": 967.3756117880622,
+      "cost_basis_equity": 973.1556117880622
+    },
+    {
+      "ts": 1725710400,
+      "cash": 959.5956117880622,
+      "cost_basis_equity": 973.1556117880622
+    },
+    {
+      "ts": 1725757200,
+      "cash": 969.5956117880622,
+      "cost_basis_equity": 977.3756117880622
+    },
+    {
+      "ts": 1725775200,
+      "cash": 961.9512416928957,
+      "cost_basis_equity": 977.3756117880622
+    },
+    {
+      "ts": 1725800400,
+      "cash": 971.9512416928957,
+      "cost_basis_equity": 979.5956117880622
+    },
+    {
+      "ts": 1725865200,
+      "cash": 971.9512416928957,
+      "cost_basis_equity": 971.9512416928957
+    },
+    {
+      "ts": 1725948000,
+      "cash": 964.7454013956766,
+      "cost_basis_equity": 971.9512416928957
+    },
+    {
+      "ts": 1726034400,
+      "cash": 958.6749093347217,
+      "cost_basis_equity": 971.9512416928957
+    },
+    {
+      "ts": 1726038000,
+      "cash": 958.6749093347217,
+      "cost_basis_equity": 964.7454013956766
+    },
+    {
+      "ts": 1726099200,
+      "cash": 951.9649093347217,
+      "cost_basis_equity": 964.7454013956765
+    },
+    {
+      "ts": 1726120800,
+      "cash": 945.4334916086518,
+      "cost_basis_equity": 964.7454013956766
+    },
+    {
+      "ts": 1726124400,
+      "cash": 955.4334916086518,
+      "cost_basis_equity": 968.6749093347217
+    },
+    {
+      "ts": 1726185600,
+      "cash": 948.9034916086518,
+      "cost_basis_equity": 968.6749093347217
+    },
+    {
+      "ts": 1726189200,
+      "cash": 958.9034916086518,
+      "cost_basis_equity": 971.9649093347218
+    },
+    {
+      "ts": 1726210800,
+      "cash": 968.9034916086518,
+      "cost_basis_equity": 975.4334916086518
+    },
+    {
+      "ts": 1726250400,
+      "cash": 961.2030542341201,
+      "cost_basis_equity": 975.4334916086518
+    },
+    {
+      "ts": 1726272000,
+      "cash": 953.4330542341202,
+      "cost_basis_equity": 975.4334916086519
+    },
+    {
+      "ts": 1726275600,
+      "cash": 963.4330542341202,
+      "cost_basis_equity": 978.9034916086518
+    },
+    {
+      "ts": 1726315200,
+      "cash": 955.9530542341201,
+      "cost_basis_equity": 978.9034916086518
+    },
+    {
+      "ts": 1726336800,
+      "cash": 949.570498094943,
+      "cost_basis_equity": 978.903491608652
+    },
+    {
+      "ts": 1726340400,
+      "cash": 959.570498094943,
+      "cost_basis_equity": 981.2030542341201
+    },
+    {
+      "ts": 1726362000,
+      "cash": 969.570498094943,
+      "cost_basis_equity": 983.4330542341202
+    },
+    {
+      "ts": 1726405200,
+      "cash": 979.570498094943,
+      "cost_basis_equity": 985.9530542341201
+    },
+    {
+      "ts": 1726423200,
+      "cash": 971.7107454912566,
+      "cost_basis_equity": 985.9530542341201
+    },
+    {
+      "ts": 1726426800,
+      "cash": 981.7107454912566,
+      "cost_basis_equity": 989.570498094943
+    },
+    {
+      "ts": 1726444800,
+      "cash": 975.1607454912566,
+      "cost_basis_equity": 989.570498094943
+    },
+    {
+      "ts": 1726466400,
+      "cash": 967.093452929531,
+      "cost_basis_equity": 989.5704980949431
+    },
+    {
+      "ts": 1726513200,
+      "cash": 977.093452929531,
+      "cost_basis_equity": 991.7107454912567
+    },
+    {
+      "ts": 1726534800,
+      "cash": 977.093452929531,
+      "cost_basis_equity": 985.1607454912566
+    },
+    {
+      "ts": 1726552800,
+      "cash": 971.4916228760718,
+      "cost_basis_equity": 985.1607454912566
+    },
+    {
+      "ts": 1726556400,
+      "cash": 971.4916228760718,
+      "cost_basis_equity": 977.093452929531
+    },
+    {
+      "ts": 1726642800,
+      "cash": 981.4916228760718,
+      "cost_basis_equity": 981.4916228760718
+    },
+    {
+      "ts": 1726660800,
+      "cash": 975.0116228760718,
+      "cost_basis_equity": 981.4916228760718
+    },
+    {
+      "ts": 1726750800,
+      "cash": 975.0116228760718,
+      "cost_basis_equity": 975.0116228760718
+    },
+    {
+      "ts": 1726812000,
+      "cash": 969.2647435328915,
+      "cost_basis_equity": 975.0116228760718
+    },
+    {
+      "ts": 1726876800,
+      "cash": 963.2147435328916,
+      "cost_basis_equity": 975.0116228760719
+    },
+    {
+      "ts": 1726902000,
+      "cash": 973.2147435328916,
+      "cost_basis_equity": 979.2647435328915
+    },
+    {
+      "ts": 1726966800,
+      "cash": 983.2147435328916,
+      "cost_basis_equity": 983.2147435328916
+    },
+    {
+      "ts": 1727200800,
+      "cash": 977.6020496687796,
+      "cost_basis_equity": 983.2147435328916
+    },
+    {
+      "ts": 1727290800,
+      "cash": 977.6020496687796,
+      "cost_basis_equity": 977.6020496687796
+    },
+    {
+      "ts": 1727740800,
+      "cash": 970.7120496687796,
+      "cost_basis_equity": 977.6020496687796
+    },
+    {
+      "ts": 1727827200,
+      "cash": 965.5920496687796,
+      "cost_basis_equity": 977.6020496687796
+    },
+    {
+      "ts": 1727830800,
+      "cash": 965.5920496687796,
+      "cost_basis_equity": 970.7120496687796
+    },
+    {
+      "ts": 1727917200,
+      "cash": 975.5920496687796,
+      "cost_basis_equity": 975.5920496687796
+    },
+    {
+      "ts": 1727956800,
+      "cash": 968.8120496687797,
+      "cost_basis_equity": 975.5920496687796
+    },
+    {
+      "ts": 1727978400,
+      "cash": 962.719452679061,
+      "cost_basis_equity": 975.5920496687797
+    },
+    {
+      "ts": 1728046800,
+      "cash": 972.719452679061,
+      "cost_basis_equity": 978.8120496687797
+    },
+    {
+      "ts": 1728068400,
+      "cash": 972.719452679061,
+      "cost_basis_equity": 972.719452679061
+    },
+    {
+      "ts": 1728108000,
+      "cash": 965.9758440903474,
+      "cost_basis_equity": 972.719452679061
+    },
+    {
+      "ts": 1728129600,
+      "cash": 958.6158440903474,
+      "cost_basis_equity": 972.719452679061
+    },
+    {
+      "ts": 1728198000,
+      "cash": 968.6158440903474,
+      "cost_basis_equity": 975.9758440903474
+    },
+    {
+      "ts": 1728219600,
+      "cash": 978.6158440903474,
+      "cost_basis_equity": 978.6158440903474
+    },
+    {
+      "ts": 1728518400,
+      "cash": 972.1058440903474,
+      "cost_basis_equity": 978.6158440903474
+    },
+    {
+      "ts": 1728583200,
+      "cash": 966.2116041878589,
+      "cost_basis_equity": 978.6158440903474
+    },
+    {
+      "ts": 1728608400,
+      "cash": 976.2116041878589,
+      "cost_basis_equity": 982.1058440903474
+    },
+    {
+      "ts": 1728673200,
+      "cash": 976.2116041878589,
+      "cost_basis_equity": 976.2116041878589
+    },
+    {
+      "ts": 1728777600,
+      "cash": 970.5916041878589,
+      "cost_basis_equity": 976.2116041878589
+    },
+    {
+      "ts": 1728842400,
+      "cash": 963.3844079507411,
+      "cost_basis_equity": 976.2116041878589
+    },
+    {
+      "ts": 1728867600,
+      "cash": 973.3844079507411,
+      "cost_basis_equity": 980.5916041878589
+    },
+    {
+      "ts": 1728932400,
+      "cash": 973.3844079507411,
+      "cost_basis_equity": 973.3844079507411
+    },
+    {
+      "ts": 1728993600,
+      "cash": 967.8844079507411,
+      "cost_basis_equity": 973.3844079507411
+    },
+    {
+      "ts": 1729015200,
+      "cash": 960.4047088614366,
+      "cost_basis_equity": 973.3844079507411
+    },
+    {
+      "ts": 1729083600,
+      "cash": 970.4047088614366,
+      "cost_basis_equity": 977.8844079507411
+    },
+    {
+      "ts": 1729101600,
+      "cash": 965.2268306575404,
+      "cost_basis_equity": 977.884407950741
+    },
+    {
+      "ts": 1729105200,
+      "cash": 975.2268306575404,
+      "cost_basis_equity": 980.4047088614366
+    },
+    {
+      "ts": 1729191600,
+      "cash": 975.2268306575404,
+      "cost_basis_equity": 975.2268306575404
+    },
+    {
+      "ts": 1729360800,
+      "cash": 968.5649900665886,
+      "cost_basis_equity": 975.2268306575404
+    },
+    {
+      "ts": 1729382400,
+      "cash": 962.5749900665886,
+      "cost_basis_equity": 975.2268306575403
+    },
+    {
+      "ts": 1729450800,
+      "cash": 962.5749900665886,
+      "cost_basis_equity": 968.5649900665886
+    },
+    {
+      "ts": 1729472400,
+      "cash": 972.5749900665886,
+      "cost_basis_equity": 972.5749900665886
+    },
+    {
+      "ts": 1729792800,
+      "cash": 965.9205028373253,
+      "cost_basis_equity": 972.5749900665886
+    },
+    {
+      "ts": 1729882800,
+      "cash": 965.9205028373253,
+      "cost_basis_equity": 965.9205028373253
+    }
+  ]
+}

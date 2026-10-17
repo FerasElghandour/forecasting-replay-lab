@@ -1,0 +1,5 @@
+{
+  "trained_asof": 1726747200,
+  "input_sha256": "dd1782daab5203c376aa481fb785f8e34d5a2ade62b095bc4fb90e3404963cfb",
+  "role": "last outer fold, not refit to test outcomes"
+}

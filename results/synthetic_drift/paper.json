@@ -1,0 +1,2969 @@
+{
+  "hypothetical_only": true,
+  "initial_capital": 1000.0,
+  "final_cash": 797.4579735041483,
+  "net_pnl": -202.5420264958517,
+  "return_on_initial_capital": -0.20254202649585173,
+  "total_fees": 14.90739718224766,
+  "trade_count": 109,
+  "max_cost_basis_drawdown": 202.5420264958517,
+  "skipped": {
+    "edge_below_threshold": 491
+  },
+  "assumptions": {
+    "contracts": 10,
+    "min_edge": 0.03,
+    "slippage_per_share": 0.005,
+    "max_event_cost": 50.0,
+    "assume_depth": false,
+    "assume_fee_rate": null,
+    "max_quote_age_seconds": 300
+  },
+  "trades": [
+    {
+      "market_id": "drift-601",
+      "event_id": "synthetic:drift-601",
+      "ts": 1717048800,
+      "settlement_ts": 1717138800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.10042101097936139,
+      "fee": 0.06324,
+      "cost": 1.0674501097936138,
+      "payout": 0,
+      "net_pnl": -1.0674501097936138,
+      "estimated_edge": 0.0315235234889967,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-602",
+      "event_id": "synthetic:drift-602",
+      "ts": 1717070400,
+      "settlement_ts": 1717160400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.35815832197272784,
+      "fee": 0.1684167802727216,
+      "cost": 3.75,
+      "payout": 0,
+      "net_pnl": -3.75,
+      "estimated_edge": 0.042952131741618826,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-605",
+      "event_id": "synthetic:drift-605",
+      "ts": 1717135200,
+      "settlement_ts": 1717225200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.8273977329472224,
+      "fee": 0.09997,
+      "cost": 8.373947329472225,
+      "payout": 10,
+      "net_pnl": 1.6260526705277751,
+      "estimated_edge": 0.11928870298203587,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-606",
+      "event_id": "synthetic:drift-606",
+      "ts": 1717156800,
+      "settlement_ts": 1717246800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7030675748979627,
+      "fee": 0.149324251020373,
+      "cost": 7.180000000000001,
+      "payout": 0,
+      "net_pnl": -7.180000000000001,
+      "estimated_edge": 0.17934842528969408,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-607",
+      "event_id": "synthetic:drift-607",
+      "ts": 1717178400,
+      "settlement_ts": 1717268400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.34918989440284975,
+      "fee": 0.15908,
+      "cost": 3.6509789440284974,
+      "payout": 0,
+      "net_pnl": -3.6509789440284974,
+      "estimated_edge": 0.08088261688605186,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-608",
+      "event_id": "synthetic:drift-608",
+      "ts": 1717200000,
+      "settlement_ts": 1717290000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.300023981831072,
+      "fee": 0.14976018168928,
+      "cost": 3.15,
+      "payout": 0,
+      "net_pnl": -3.15,
+      "estimated_edge": 0.40076615376125185,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-609",
+      "event_id": "synthetic:drift-609",
+      "ts": 1717221600,
+      "settlement_ts": 1717311600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.2736975728182829,
+      "fee": 0.13915,
+      "cost": 2.8761257281828287,
+      "payout": 0,
+      "net_pnl": -2.8761257281828287,
+      "estimated_edge": 0.16069784549688937,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-610",
+      "event_id": "synthetic:drift-610",
+      "ts": 1717243200,
+      "settlement_ts": 1717333200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.706542410969995,
+      "fee": 0.15457589030005,
+      "cost": 7.220000000000001,
+      "payout": 0,
+      "net_pnl": -7.220000000000001,
+      "estimated_edge": 0.08061352331559424,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-611",
+      "event_id": "synthetic:drift-611",
+      "ts": 1717264800,
+      "settlement_ts": 1717354800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.33332645934401905,
+      "fee": 0.15555,
+      "cost": 3.4888145934401904,
+      "payout": 0,
+      "net_pnl": -3.4888145934401904,
+      "estimated_edge": 0.46495350215074915,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-612",
+      "event_id": "synthetic:drift-612",
+      "ts": 1717286400,
+      "settlement_ts": 1717376400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.75328668177477,
+      "fee": 0.1371331822523,
+      "cost": 7.67,
+      "payout": 10,
+      "net_pnl": 2.33,
+      "estimated_edge": 0.09676718753456481,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-613",
+      "event_id": "synthetic:drift-613",
+      "ts": 1717308000,
+      "settlement_ts": 1717398000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.25646170051325123,
+      "fee": 0.13348,
+      "cost": 2.6980970051325124,
+      "payout": 10,
+      "net_pnl": 7.301902994867488,
+      "estimated_edge": 0.1566802305055911,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-615",
+      "event_id": "synthetic:drift-615",
+      "ts": 1717351200,
+      "settlement_ts": 1717441200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7462565717823851,
+      "fee": 0.13255,
+      "cost": 7.595115717823852,
+      "payout": 0,
+      "net_pnl": -7.595115717823852,
+      "estimated_edge": 0.13807212829503446,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-616",
+      "event_id": "synthetic:drift-616",
+      "ts": 1717372800,
+      "settlement_ts": 1717462800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7924289547059896,
+      "fee": 0.115710452940104,
+      "cost": 8.04,
+      "payout": 10,
+      "net_pnl": 1.9600000000000009,
+      "estimated_edge": 0.1307873590896549,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-617",
+      "event_id": "synthetic:drift-617",
+      "ts": 1717394400,
+      "settlement_ts": 1717484400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7941693187046994,
+      "fee": 0.11443,
+      "cost": 8.056123187046994,
+      "payout": 10,
+      "net_pnl": 1.9438768129530057,
+      "estimated_edge": 0.054829231635254216,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-619",
+      "event_id": "synthetic:drift-619",
+      "ts": 1717437600,
+      "settlement_ts": 1717527600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.849691007083892,
+      "fee": 0.0894,
+      "cost": 8.58631007083892,
+      "payout": 10,
+      "net_pnl": 1.4136899291610803,
+      "estimated_edge": 0.04671412238319361,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-620",
+      "event_id": "synthetic:drift-620",
+      "ts": 1717459200,
+      "settlement_ts": 1717549200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.4903703311278224,
+      "fee": 0.176296688721776,
+      "cost": 5.08,
+      "payout": 0,
+      "net_pnl": -5.08,
+      "estimated_edge": 0.19453738313036895,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-623",
+      "event_id": "synthetic:drift-623",
+      "ts": 1717524000,
+      "settlement_ts": 1717614000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.27413928047886427,
+      "fee": 0.13929,
+      "cost": 2.8806828047886426,
+      "payout": 0,
+      "net_pnl": -2.8806828047886426,
+      "estimated_edge": 0.3425350919403397,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-624",
+      "event_id": "synthetic:drift-624",
+      "ts": 1717545600,
+      "settlement_ts": 1717635600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.15306352751284402,
+      "fee": 0.0993647248715598,
+      "cost": 1.6300000000000001,
+      "payout": 0,
+      "net_pnl": -1.6300000000000001,
+      "estimated_edge": 0.24642965980727563,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-625",
+      "event_id": "synthetic:drift-625",
+      "ts": 1717567200,
+      "settlement_ts": 1717657200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.20347816675727992,
+      "fee": 0.11345,
+      "cost": 2.1482316675727993,
+      "payout": 0,
+      "net_pnl": -2.1482316675727993,
+      "estimated_edge": 0.055493048067506046,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-627",
+      "event_id": "synthetic:drift-627",
+      "ts": 1717610400,
+      "settlement_ts": 1717700400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.34687552893862583,
+      "fee": 0.15859,
+      "cost": 3.627345289386258,
+      "payout": 0,
+      "net_pnl": -3.627345289386258,
+      "estimated_edge": 0.04586508385880106,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-629",
+      "event_id": "synthetic:drift-629",
+      "ts": 1717653600,
+      "settlement_ts": 1717743600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7561539218099363,
+      "fee": 0.12907,
+      "cost": 7.690609218099363,
+      "payout": 0,
+      "net_pnl": -7.690609218099363,
+      "estimated_edge": 0.17612287156039563,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-630",
+      "event_id": "synthetic:drift-630",
+      "ts": 1717675200,
+      "settlement_ts": 1717765200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.2434959218724294,
+      "fee": 0.135040781275706,
+      "cost": 2.57,
+      "payout": 0,
+      "net_pnl": -2.57,
+      "estimated_edge": 0.09299605697168134,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-631",
+      "event_id": "synthetic:drift-631",
+      "ts": 1717696800,
+      "settlement_ts": 1717786800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.36331959407415576,
+      "fee": 0.16192,
+      "cost": 3.7951159407415576,
+      "payout": 0,
+      "net_pnl": -3.7951159407415576,
+      "estimated_edge": 0.03942867050569332,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-632",
+      "event_id": "synthetic:drift-632",
+      "ts": 1717718400,
+      "settlement_ts": 1717808400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7536321502523596,
+      "fee": 0.133678497476404,
+      "cost": 7.67,
+      "payout": 0,
+      "net_pnl": -7.67,
+      "estimated_edge": 0.17052613731008592,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-633",
+      "event_id": "synthetic:drift-633",
+      "ts": 1717740000,
+      "settlement_ts": 1717830000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5403364357678383,
+      "fee": 0.17386,
+      "cost": 5.577224357678383,
+      "payout": 0,
+      "net_pnl": -5.577224357678383,
+      "estimated_edge": 0.05499898091783384,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-635",
+      "event_id": "synthetic:drift-635",
+      "ts": 1717783200,
+      "settlement_ts": 1717873200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.6914355665042525,
+      "fee": 0.14935,
+      "cost": 7.063705665042526,
+      "payout": 0,
+      "net_pnl": -7.063705665042526,
+      "estimated_edge": 0.20165661959750558,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-636",
+      "event_id": "synthetic:drift-636",
+      "ts": 1717804800,
+      "settlement_ts": 1717894800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.07470155804371802,
+      "fee": 0.0529844195628198,
+      "cost": 0.8,
+      "payout": 0,
+      "net_pnl": -0.8,
+      "estimated_edge": 0.07783141243396448,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-639",
+      "event_id": "synthetic:drift-639",
+      "ts": 1717869600,
+      "settlement_ts": 1717959600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.40658008157312175,
+      "fee": 0.16889,
+      "cost": 4.234690815731217,
+      "payout": 0,
+      "net_pnl": -4.234690815731217,
+      "estimated_edge": 0.2724543168569456,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-640",
+      "event_id": "synthetic:drift-640",
+      "ts": 1717891200,
+      "settlement_ts": 1717981200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.31242790930317066,
+      "fee": 0.1557209069682934,
+      "cost": 3.28,
+      "payout": 10,
+      "net_pnl": 6.720000000000001,
+      "estimated_edge": 0.18092745280638056,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-641",
+      "event_id": "synthetic:drift-641",
+      "ts": 1717912800,
+      "settlement_ts": 1718002800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.07437737668948909,
+      "fee": 0.04819,
+      "cost": 0.7919637668948908,
+      "payout": 0,
+      "net_pnl": -0.7919637668948908,
+      "estimated_edge": 0.11308492034892638,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-645",
+      "event_id": "synthetic:drift-645",
+      "ts": 1717999200,
+      "settlement_ts": 1718089200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.21827259521485454,
+      "fee": 0.11944,
+      "cost": 2.3021659521485454,
+      "payout": 0,
+      "net_pnl": -2.3021659521485454,
+      "estimated_edge": 0.37672382504792906,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-646",
+      "event_id": "synthetic:drift-646",
+      "ts": 1718020800,
+      "settlement_ts": 1718110800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.8970293712943237,
+      "fee": 0.069706287056763,
+      "cost": 9.04,
+      "payout": 10,
+      "net_pnl": 0.9600000000000009,
+      "estimated_edge": 0.05408871142512206,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-647",
+      "event_id": "synthetic:drift-647",
+      "ts": 1718042400,
+      "settlement_ts": 1718132400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.27813281431740994,
+      "fee": 0.14054,
+      "cost": 2.9218681431740996,
+      "payout": 0,
+      "net_pnl": -2.9218681431740996,
+      "estimated_edge": 0.3187915515994037,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-648",
+      "event_id": "synthetic:drift-648",
+      "ts": 1718064000,
+      "settlement_ts": 1718154000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.8295532556191484,
+      "fee": 0.104467443808516,
+      "cost": 8.4,
+      "payout": 10,
+      "net_pnl": 1.5999999999999996,
+      "estimated_edge": 0.03459732038034291,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-649",
+      "event_id": "synthetic:drift-649",
+      "ts": 1718085600,
+      "settlement_ts": 1718175600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.309764293489514,
+      "fee": 0.14967,
+      "cost": 3.24731293489514,
+      "payout": 10,
+      "net_pnl": 6.75268706510486,
+      "estimated_edge": 0.031577985431298916,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-650",
+      "event_id": "synthetic:drift-650",
+      "ts": 1718107200,
+      "settlement_ts": 1718197200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5561206227607222,
+      "fee": 0.178793772392778,
+      "cost": 5.739999999999999,
+      "payout": 0,
+      "net_pnl": -5.739999999999999,
+      "estimated_edge": 0.21205541538144224,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-651",
+      "event_id": "synthetic:drift-651",
+      "ts": 1718128800,
+      "settlement_ts": 1718218800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7997568619493435,
+      "fee": 0.1121,
+      "cost": 8.109668619493435,
+      "payout": 10,
+      "net_pnl": 1.8903313805065647,
+      "estimated_edge": 0.031497040562554424,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-652",
+      "event_id": "synthetic:drift-652",
+      "ts": 1718150400,
+      "settlement_ts": 1718240400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.26993812474028034,
+      "fee": 0.1406187525971966,
+      "cost": 2.84,
+      "payout": 0,
+      "net_pnl": -2.84,
+      "estimated_edge": 0.3522599537499214,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-653",
+      "event_id": "synthetic:drift-653",
+      "ts": 1718172000,
+      "settlement_ts": 1718262000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5394344000625453,
+      "fee": 0.17391,
+      "cost": 5.568254000625453,
+      "payout": 0,
+      "net_pnl": -5.568254000625453,
+      "estimated_edge": 0.03240252620856543,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-656",
+      "event_id": "synthetic:drift-656",
+      "ts": 1718236800,
+      "settlement_ts": 1718326800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.27908939208271855,
+      "fee": 0.1491060791728145,
+      "cost": 2.9400000000000004,
+      "payout": 0,
+      "net_pnl": -2.9400000000000004,
+      "estimated_edge": 0.03158586433345101,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-657",
+      "event_id": "synthetic:drift-657",
+      "ts": 1718258400,
+      "settlement_ts": 1718348400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.9305520302478749,
+      "fee": 0.04524,
+      "cost": 9.350760302478749,
+      "payout": 10,
+      "net_pnl": 0.6492396975212511,
+      "estimated_edge": 0.03475189055492656,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-659",
+      "event_id": "synthetic:drift-659",
+      "ts": 1718301600,
+      "settlement_ts": 1718391600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.12380283229766383,
+      "fee": 0.07593,
+      "cost": 1.3139583229766383,
+      "payout": 0,
+      "net_pnl": -1.3139583229766383,
+      "estimated_edge": 0.09307349539594134,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-660",
+      "event_id": "synthetic:drift-660",
+      "ts": 1718323200,
+      "settlement_ts": 1718413200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.058810969601481564,
+      "fee": 0.04189030398518436,
+      "cost": 0.63,
+      "payout": 0,
+      "net_pnl": -0.63,
+      "estimated_edge": 0.05348471588248144,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-665",
+      "event_id": "synthetic:drift-665",
+      "ts": 1718431200,
+      "settlement_ts": 1718521200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.708863183087642,
+      "fee": 0.14446,
+      "cost": 7.233091830876419,
+      "payout": 10,
+      "net_pnl": 2.766908169123581,
+      "estimated_edge": 0.06080704647215285,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-666",
+      "event_id": "synthetic:drift-666",
+      "ts": 1718452800,
+      "settlement_ts": 1718542800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.6141999429740204,
+      "fee": 0.168000570259796,
+      "cost": 6.31,
+      "payout": 10,
+      "net_pnl": 3.6900000000000004,
+      "estimated_edge": 0.030001189002968887,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-667",
+      "event_id": "synthetic:drift-667",
+      "ts": 1718474400,
+      "settlement_ts": 1718564400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5849846839967713,
+      "fee": 0.16994,
+      "cost": 6.019786839967713,
+      "payout": 0,
+      "net_pnl": -6.019786839967713,
+      "estimated_edge": 0.08845798268007798,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-669",
+      "event_id": "synthetic:drift-669",
+      "ts": 1718517600,
+      "settlement_ts": 1718607600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.2223673845493197,
+      "fee": 0.12104,
+      "cost": 2.344713845493197,
+      "payout": 0,
+      "net_pnl": -2.344713845493197,
+      "estimated_edge": 0.32918453031861616,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-672",
+      "event_id": "synthetic:drift-672",
+      "ts": 1718582400,
+      "settlement_ts": 1718672400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5085458632714126,
+      "fee": 0.184541367285874,
+      "cost": 5.27,
+      "payout": 0,
+      "net_pnl": -5.27,
+      "estimated_edge": 0.10300697461285657,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-673",
+      "event_id": "synthetic:drift-673",
+      "ts": 1718604000,
+      "settlement_ts": 1718694000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.18051223492252488,
+      "fee": 0.10355,
+      "cost": 1.9086723492252489,
+      "payout": 0,
+      "net_pnl": -1.9086723492252489,
+      "estimated_edge": 0.10903301992148684,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-674",
+      "event_id": "synthetic:drift-674",
+      "ts": 1718625600,
+      "settlement_ts": 1718715600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.28613757516828475,
+      "fee": 0.1486242483171525,
+      "cost": 3.01,
+      "payout": 0,
+      "net_pnl": -3.01,
+      "estimated_edge": 0.2870692905306849,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-675",
+      "event_id": "synthetic:drift-675",
+      "ts": 1718647200,
+      "settlement_ts": 1718737200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.8714270047433337,
+      "fee": 0.07843,
+      "cost": 8.792700047433335,
+      "payout": 10,
+      "net_pnl": 1.2072999525666646,
+      "estimated_edge": 0.04033949974987561,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-676",
+      "event_id": "synthetic:drift-676",
+      "ts": 1718668800,
+      "settlement_ts": 1718758800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.44013048735248195,
+      "fee": 0.1786951264751805,
+      "cost": 4.58,
+      "payout": 0,
+      "net_pnl": -4.58,
+      "estimated_edge": 0.2670474810835665,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-677",
+      "event_id": "synthetic:drift-677",
+      "ts": 1718690400,
+      "settlement_ts": 1718780400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.616884638856659,
+      "fee": 0.16544,
+      "cost": 6.33428638856659,
+      "payout": 0,
+      "net_pnl": -6.33428638856659,
+      "estimated_edge": 0.17346982840116965,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-679",
+      "event_id": "synthetic:drift-679",
+      "ts": 1718733600,
+      "settlement_ts": 1718823600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.18307746303590033,
+      "fee": 0.10469,
+      "cost": 1.9354646303590033,
+      "payout": 0,
+      "net_pnl": -1.9354646303590033,
+      "estimated_edge": 0.3399926327816098,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-682",
+      "event_id": "synthetic:drift-682",
+      "ts": 1718798400,
+      "settlement_ts": 1718888400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.44709955599324935,
+      "fee": 0.1790044400675065,
+      "cost": 4.65,
+      "payout": 0,
+      "net_pnl": -4.65,
+      "estimated_edge": 0.29007546928888267,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-683",
+      "event_id": "synthetic:drift-683",
+      "ts": 1718820000,
+      "settlement_ts": 1718910000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.9160323393604415,
+      "fee": 0.05384,
+      "cost": 9.214163393604414,
+      "payout": 0,
+      "net_pnl": -9.214163393604414,
+      "estimated_edge": 0.06602330868517758,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-685",
+      "event_id": "synthetic:drift-685",
+      "ts": 1718863200,
+      "settlement_ts": 1718953200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5999182197554441,
+      "fee": 0.16801,
+      "cost": 6.167192197554441,
+      "payout": 10,
+      "net_pnl": 3.8328078024455587,
+      "estimated_edge": 0.24585080571734563,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-686",
+      "event_id": "synthetic:drift-686",
+      "ts": 1718884800,
+      "settlement_ts": 1718974800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7399163836513906,
+      "fee": 0.140836163486094,
+      "cost": 7.54,
+      "payout": 10,
+      "net_pnl": 2.46,
+      "estimated_edge": 0.036487106594551344,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-687",
+      "event_id": "synthetic:drift-687",
+      "ts": 1718906400,
+      "settlement_ts": 1718996400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.751100563763697,
+      "fee": 0.13086,
+      "cost": 7.641865637636971,
+      "payout": 10,
+      "net_pnl": 2.358134362363029,
+      "estimated_edge": 0.03728720681545572,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-688",
+      "event_id": "synthetic:drift-688",
+      "ts": 1718928000,
+      "settlement_ts": 1719018000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.256912048603251,
+      "fee": 0.14087951396749,
+      "cost": 2.71,
+      "payout": 0,
+      "net_pnl": -2.71,
+      "estimated_edge": 0.21059326319914629,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-689",
+      "event_id": "synthetic:drift-689",
+      "ts": 1718949600,
+      "settlement_ts": 1719039600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.740189862870814,
+      "fee": 0.13462,
+      "cost": 7.53651862870814,
+      "payout": 0,
+      "net_pnl": -7.53651862870814,
+      "estimated_edge": 0.04525008576462963,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-690",
+      "event_id": "synthetic:drift-690",
+      "ts": 1718971200,
+      "settlement_ts": 1719061200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.1218188890112446,
+      "fee": 0.081811109887554,
+      "cost": 1.3,
+      "payout": 0,
+      "net_pnl": -1.3,
+      "estimated_edge": 0.22738589904071194,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-691",
+      "event_id": "synthetic:drift-691",
+      "ts": 1718992800,
+      "settlement_ts": 1719082800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5933095398856002,
+      "fee": 0.16891,
+      "cost": 6.102005398856003,
+      "payout": 0,
+      "net_pnl": -6.102005398856003,
+      "estimated_edge": 0.19395509173618264,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-692",
+      "event_id": "synthetic:drift-692",
+      "ts": 1719014400,
+      "settlement_ts": 1719104400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5182319936767619,
+      "fee": 0.177680063232381,
+      "cost": 5.359999999999999,
+      "payout": 10,
+      "net_pnl": 4.640000000000001,
+      "estimated_edge": 0.24120927367502,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-693",
+      "event_id": "synthetic:drift-693",
+      "ts": 1719036000,
+      "settlement_ts": 1719126000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7407414427590017,
+      "fee": 0.13443,
+      "cost": 7.541844427590017,
+      "payout": 10,
+      "net_pnl": 2.458155572409983,
+      "estimated_edge": 0.16271586652036507,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-694",
+      "event_id": "synthetic:drift-694",
+      "ts": 1719057600,
+      "settlement_ts": 1719147600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.17851447343268445,
+      "fee": 0.1048552656731555,
+      "cost": 1.8900000000000001,
+      "payout": 0,
+      "net_pnl": -1.8900000000000001,
+      "estimated_edge": 0.047424630388202715,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-695",
+      "event_id": "synthetic:drift-695",
+      "ts": 1719079200,
+      "settlement_ts": 1719169200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.38831733717207495,
+      "fee": 0.16627,
+      "cost": 4.049443371720749,
+      "payout": 10,
+      "net_pnl": 5.950556628279251,
+      "estimated_edge": 0.03166978771580892,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-696",
+      "event_id": "synthetic:drift-696",
+      "ts": 1719100800,
+      "settlement_ts": 1719190800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7804156197331108,
+      "fee": 0.125843802668892,
+      "cost": 7.93,
+      "payout": 10,
+      "net_pnl": 2.0700000000000003,
+      "estimated_edge": 0.1572442910341011,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-698",
+      "event_id": "synthetic:drift-698",
+      "ts": 1719144000,
+      "settlement_ts": 1719234000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.2922486996404059,
+      "fee": 0.147513003595941,
+      "cost": 3.07,
+      "payout": 0,
+      "net_pnl": -3.07,
+      "estimated_edge": 0.3708952459312858,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-699",
+      "event_id": "synthetic:drift-699",
+      "ts": 1719165600,
+      "settlement_ts": 1719255600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7403208361334904,
+      "fee": 0.13457,
+      "cost": 7.5377783613349045,
+      "payout": 0,
+      "net_pnl": -7.5377783613349045,
+      "estimated_edge": 0.15047421574429987,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-701",
+      "event_id": "synthetic:drift-701",
+      "ts": 1719208800,
+      "settlement_ts": 1719298800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.398541708807674,
+      "fee": 0.16779,
+      "cost": 4.15320708807674,
+      "payout": 0,
+      "net_pnl": -4.15320708807674,
+      "estimated_edge": 0.3480660195749274,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-702",
+      "event_id": "synthetic:drift-702",
+      "ts": 1719230400,
+      "settlement_ts": 1719320400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.394362633890717,
+      "fee": 0.17637366109283,
+      "cost": 4.12,
+      "payout": 0,
+      "net_pnl": -4.12,
+      "estimated_edge": 0.12276898778708512,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-703",
+      "event_id": "synthetic:drift-703",
+      "ts": 1719252000,
+      "settlement_ts": 1719342000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.22662644160059153,
+      "fee": 0.12269,
+      "cost": 2.3889544160059155,
+      "payout": 0,
+      "net_pnl": -2.3889544160059155,
+      "estimated_edge": 0.12580097055523903,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-704",
+      "event_id": "synthetic:drift-704",
+      "ts": 1719273600,
+      "settlement_ts": 1719363600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.8718383731771959,
+      "fee": 0.081616268228041,
+      "cost": 8.8,
+      "payout": 10,
+      "net_pnl": 1.1999999999999993,
+      "estimated_edge": 0.06223525282955411,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-705",
+      "event_id": "synthetic:drift-705",
+      "ts": 1719295200,
+      "settlement_ts": 1719385200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7677277237995541,
+      "fee": 0.12483,
+      "cost": 7.802107237995542,
+      "payout": 0,
+      "net_pnl": -7.802107237995542,
+      "estimated_edge": 0.10391353600128528,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-706",
+      "event_id": "synthetic:drift-706",
+      "ts": 1719316800,
+      "settlement_ts": 1719406800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.683533085882489,
+      "fee": 0.15466914117511,
+      "cost": 6.989999999999999,
+      "payout": 10,
+      "net_pnl": 3.0100000000000007,
+      "estimated_edge": 0.05904331865133172,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-707",
+      "event_id": "synthetic:drift-707",
+      "ts": 1719338400,
+      "settlement_ts": 1719428400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5348613981708606,
+      "fee": 0.17415,
+      "cost": 5.522763981708606,
+      "payout": 0,
+      "net_pnl": -5.522763981708606,
+      "estimated_edge": 0.10164966438516665,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-710",
+      "event_id": "synthetic:drift-710",
+      "ts": 1719403200,
+      "settlement_ts": 1719493200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.31469676827541226,
+      "fee": 0.1530323172458774,
+      "cost": 3.3,
+      "payout": 0,
+      "net_pnl": -3.3,
+      "estimated_edge": 0.09093877859805255,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-711",
+      "event_id": "synthetic:drift-711",
+      "ts": 1719424800,
+      "settlement_ts": 1719514800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7113121139125239,
+      "fee": 0.14374,
+      "cost": 7.256861139125239,
+      "payout": 0,
+      "net_pnl": -7.256861139125239,
+      "estimated_edge": 0.10915468293939679,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-712",
+      "event_id": "synthetic:drift-712",
+      "ts": 1719446400,
+      "settlement_ts": 1719536400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7149565806239411,
+      "fee": 0.150434193760589,
+      "cost": 7.299999999999999,
+      "payout": 10,
+      "net_pnl": 2.700000000000001,
+      "estimated_edge": 0.04857563397284048,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-714",
+      "event_id": "synthetic:drift-714",
+      "ts": 1719489600,
+      "settlement_ts": 1719579600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.23628560320873904,
+      "fee": 0.1271439679126096,
+      "cost": 2.4899999999999998,
+      "payout": 0,
+      "net_pnl": -2.4899999999999998,
+      "estimated_edge": 0.17298484475678802,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-715",
+      "event_id": "synthetic:drift-715",
+      "ts": 1719511200,
+      "settlement_ts": 1719601200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7471795759293363,
+      "fee": 0.13223,
+      "cost": 7.604025759293362,
+      "payout": 0,
+      "net_pnl": -7.604025759293362,
+      "estimated_edge": 0.1804284339571085,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-716",
+      "event_id": "synthetic:drift-716",
+      "ts": 1719532800,
+      "settlement_ts": 1719622800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.31602547373441764,
+      "fee": 0.1597452626558236,
+      "cost": 3.3200000000000003,
+      "payout": 0,
+      "net_pnl": -3.3200000000000003,
+      "estimated_edge": 0.40003088230628553,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-717",
+      "event_id": "synthetic:drift-717",
+      "ts": 1719554400,
+      "settlement_ts": 1719644400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.8544197123215034,
+      "fee": 0.08707,
+      "cost": 8.631267123215034,
+      "payout": 0,
+      "net_pnl": -8.631267123215034,
+      "estimated_edge": 0.09326252474970487,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-719",
+      "event_id": "synthetic:drift-719",
+      "ts": 1719597600,
+      "settlement_ts": 1719687600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.28789736991122317,
+      "fee": 0.14351,
+      "cost": 3.0224836991122315,
+      "payout": 0,
+      "net_pnl": -3.0224836991122315,
+      "estimated_edge": 0.042967294364989805,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-720",
+      "event_id": "synthetic:drift-720",
+      "ts": 1719619200,
+      "settlement_ts": 1719709200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.27236319064819586,
+      "fee": 0.1463680935180414,
+      "cost": 2.87,
+      "payout": 0,
+      "net_pnl": -2.87,
+      "estimated_edge": 0.1858221543804079,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-721",
+      "event_id": "synthetic:drift-721",
+      "ts": 1719640800,
+      "settlement_ts": 1719730800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.31132220020316814,
+      "fee": 0.15008,
+      "cost": 3.2633020020316814,
+      "payout": 0,
+      "net_pnl": -3.2633020020316814,
+      "estimated_edge": 0.2528647003889002,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-722",
+      "event_id": "synthetic:drift-722",
+      "ts": 1719662400,
+      "settlement_ts": 1719752400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.2931353313386632,
+      "fee": 0.148646686613368,
+      "cost": 3.08,
+      "payout": 10,
+      "net_pnl": 6.92,
+      "estimated_edge": 0.07912372693752118,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-723",
+      "event_id": "synthetic:drift-723",
+      "ts": 1719684000,
+      "settlement_ts": 1719774000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.44843657060503384,
+      "fee": 0.17314,
+      "cost": 4.657505706050339,
+      "payout": 0,
+      "net_pnl": -4.657505706050339,
+      "estimated_edge": 0.05153670881390182,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-724",
+      "event_id": "synthetic:drift-724",
+      "ts": 1719705600,
+      "settlement_ts": 1719795600,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.5370029554055676,
+      "fee": 0.179970445944324,
+      "cost": 5.550000000000001,
+      "payout": 0,
+      "net_pnl": -5.550000000000001,
+      "estimated_edge": 0.22654076491366026,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-726",
+      "event_id": "synthetic:drift-726",
+      "ts": 1719748800,
+      "settlement_ts": 1719838800,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.2374189663283821,
+      "fee": 0.135810336716179,
+      "cost": 2.5100000000000002,
+      "payout": 10,
+      "net_pnl": 7.49,
+      "estimated_edge": 0.05979267020182122,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-727",
+      "event_id": "synthetic:drift-727",
+      "ts": 1719770400,
+      "settlement_ts": 1719860400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.14413607842490755,
+      "fee": 0.08635,
+      "cost": 1.5277107842490754,
+      "payout": 0,
+      "net_pnl": -1.5277107842490754,
+      "estimated_edge": 0.10155792537394223,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-728",
+      "event_id": "synthetic:drift-728",
+      "ts": 1719792000,
+      "settlement_ts": 1719882000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.49836752664239636,
+      "fee": 0.1763247335760364,
+      "cost": 5.16,
+      "payout": 0,
+      "net_pnl": -5.16,
+      "estimated_edge": 0.08616010321809242,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-729",
+      "event_id": "synthetic:drift-729",
+      "ts": 1719813600,
+      "settlement_ts": 1719903600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.48458691464504444,
+      "fee": 0.17483,
+      "cost": 5.020699146450444,
+      "payout": 0,
+      "net_pnl": -5.020699146450444,
+      "estimated_edge": 0.1646039786154604,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-731",
+      "event_id": "synthetic:drift-731",
+      "ts": 1719856800,
+      "settlement_ts": 1719946800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.1550696007768237,
+      "fee": 0.09172,
+      "cost": 1.642416007768237,
+      "payout": 0,
+      "net_pnl": -1.642416007768237,
+      "estimated_edge": 0.08654303700832822,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-732",
+      "event_id": "synthetic:drift-732",
+      "ts": 1719878400,
+      "settlement_ts": 1719968400,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.7335021556324365,
+      "fee": 0.144978443675635,
+      "cost": 7.4799999999999995,
+      "payout": 10,
+      "net_pnl": 2.5200000000000005,
+      "estimated_edge": 0.13010664178144982,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-733",
+      "event_id": "synthetic:drift-733",
+      "ts": 1719900000,
+      "settlement_ts": 1719990000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.235702399765679,
+      "fee": 0.1261,
+      "cost": 2.48312399765679,
+      "payout": 10,
+      "net_pnl": 7.51687600234321,
+      "estimated_edge": 0.04590617322403842,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-734",
+      "event_id": "synthetic:drift-734",
+      "ts": 1719921600,
+      "settlement_ts": 1720011600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.6728479184427807,
+      "fee": 0.161520815572193,
+      "cost": 6.89,
+      "payout": 10,
+      "net_pnl": 3.1100000000000003,
+      "estimated_edge": 0.137705109424484,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-735",
+      "event_id": "synthetic:drift-735",
+      "ts": 1719943200,
+      "settlement_ts": 1720033200,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7306215812744608,
+      "fee": 0.13777,
+      "cost": 7.443985812744607,
+      "payout": 0,
+      "net_pnl": -7.443985812744607,
+      "estimated_edge": 0.128105479474955,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-737",
+      "event_id": "synthetic:drift-737",
+      "ts": 1719986400,
+      "settlement_ts": 1720076400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.7209985777725681,
+      "fee": 0.14081,
+      "cost": 7.350795777725682,
+      "payout": 0,
+      "net_pnl": -7.350795777725682,
+      "estimated_edge": 0.16687774167694003,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-738",
+      "event_id": "synthetic:drift-738",
+      "ts": 1720008000,
+      "settlement_ts": 1720098000,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.33426476787521386,
+      "fee": 0.1573523212478614,
+      "cost": 3.5,
+      "payout": 0,
+      "net_pnl": -3.5,
+      "estimated_edge": 0.3927095679398305,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-740",
+      "event_id": "synthetic:drift-740",
+      "ts": 1720051200,
+      "settlement_ts": 1720141200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.30518623986621074,
+      "fee": 0.1581376013378926,
+      "cost": 3.2100000000000004,
+      "payout": 10,
+      "net_pnl": 6.789999999999999,
+      "estimated_edge": 0.3481040692533375,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-742",
+      "event_id": "synthetic:drift-742",
+      "ts": 1720094400,
+      "settlement_ts": 1720184400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.8006031377161561,
+      "fee": 0.113968622838439,
+      "cost": 8.12,
+      "payout": 10,
+      "net_pnl": 1.8800000000000008,
+      "estimated_edge": 0.03350489964374104,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-744",
+      "event_id": "synthetic:drift-744",
+      "ts": 1720137600,
+      "settlement_ts": 1720227600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.47737404647473447,
+      "fee": 0.1762595352526553,
+      "cost": 4.95,
+      "payout": 10,
+      "net_pnl": 5.05,
+      "estimated_edge": 0.03470314442406697,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-745",
+      "event_id": "synthetic:drift-745",
+      "ts": 1720159200,
+      "settlement_ts": 1720249200,
+      "side": "no",
+      "contracts": 10,
+      "fill_price": 0.2368493163338733,
+      "fee": 0.12653,
+      "cost": 2.4950231633387325,
+      "payout": 0,
+      "net_pnl": -2.4950231633387325,
+      "estimated_edge": 0.07355024271388572,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-746",
+      "event_id": "synthetic:drift-746",
+      "ts": 1720180800,
+      "settlement_ts": 1720270800,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.6343848268937731,
+      "fee": 0.166151731062269,
+      "cost": 6.509999999999999,
+      "payout": 10,
+      "net_pnl": 3.490000000000001,
+      "estimated_edge": 0.06184476051581156,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-747",
+      "event_id": "synthetic:drift-747",
+      "ts": 1720202400,
+      "settlement_ts": 1720292400,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5671906870866614,
+      "fee": 0.17184,
+      "cost": 5.843746870866614,
+      "payout": 0,
+      "net_pnl": -5.843746870866614,
+      "estimated_edge": 0.09706557900249224,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-748",
+      "event_id": "synthetic:drift-748",
+      "ts": 1720224000,
+      "settlement_ts": 1720314000,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.41172510684597724,
+      "fee": 0.1727489315402276,
+      "cost": 4.29,
+      "payout": 0,
+      "net_pnl": -4.29,
+      "estimated_edge": 0.043675078544721524,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    },
+    {
+      "market_id": "drift-749",
+      "event_id": "synthetic:drift-749",
+      "ts": 1720245600,
+      "settlement_ts": 1720335600,
+      "side": "yes",
+      "contracts": 10,
+      "fill_price": 0.5191258946022462,
+      "fee": 0.17474,
+      "cost": 5.365998946022462,
+      "payout": 0,
+      "net_pnl": -5.365998946022462,
+      "estimated_edge": 0.20793711754783117,
+      "fee_rate": 0.07,
+      "depth_assumed": false,
+      "fee_assumed": false
+    }
+  ],
+  "equity": [
+    {
+      "ts": 1717048800,
+      "cash": 998.9325498902064,
+      "cost_basis_equity": 1000.0
+    },
+    {
+      "ts": 1717070400,
+      "cash": 995.1825498902064,
+      "cost_basis_equity": 1000.0
+    },
+    {
+      "ts": 1717135200,
+      "cash": 986.8086025607341,
+      "cost_basis_equity": 1000.0
+    },
+    {
+      "ts": 1717138800,
+      "cash": 986.8086025607341,
+      "cost_basis_equity": 998.9325498902064
+    },
+    {
+      "ts": 1717156800,
+      "cash": 979.6286025607342,
+      "cost_basis_equity": 998.9325498902064
+    },
+    {
+      "ts": 1717160400,
+      "cash": 979.6286025607342,
+      "cost_basis_equity": 995.1825498902064
+    },
+    {
+      "ts": 1717178400,
+      "cash": 975.9776236167057,
+      "cost_basis_equity": 995.1825498902065
+    },
+    {
+      "ts": 1717200000,
+      "cash": 972.8276236167058,
+      "cost_basis_equity": 995.1825498902065
+    },
+    {
+      "ts": 1717221600,
+      "cash": 969.9514978885229,
+      "cost_basis_equity": 995.1825498902065
+    },
+    {
+      "ts": 1717225200,
+      "cash": 979.9514978885229,
+      "cost_basis_equity": 996.8086025607342
+    },
+    {
+      "ts": 1717243200,
+      "cash": 972.7314978885229,
+      "cost_basis_equity": 996.8086025607342
+    },
+    {
+      "ts": 1717246800,
+      "cash": 972.7314978885229,
+      "cost_basis_equity": 989.6286025607342
+    },
+    {
+      "ts": 1717264800,
+      "cash": 969.2426832950827,
+      "cost_basis_equity": 989.6286025607342
+    },
+    {
+      "ts": 1717268400,
+      "cash": 969.2426832950827,
+      "cost_basis_equity": 985.9776236167057
+    },
+    {
+      "ts": 1717286400,
+      "cash": 961.5726832950827,
+      "cost_basis_equity": 985.9776236167057
+    },
+    {
+      "ts": 1717290000,
+      "cash": 961.5726832950827,
+      "cost_basis_equity": 982.8276236167058
+    },
+    {
+      "ts": 1717308000,
+      "cash": 958.8745862899502,
+      "cost_basis_equity": 982.8276236167058
+    },
+    {
+      "ts": 1717311600,
+      "cash": 958.8745862899502,
+      "cost_basis_equity": 979.9514978885229
+    },
+    {
+      "ts": 1717333200,
+      "cash": 958.8745862899502,
+      "cost_basis_equity": 972.7314978885229
+    },
+    {
+      "ts": 1717351200,
+      "cash": 951.2794705721263,
+      "cost_basis_equity": 972.7314978885229
+    },
+    {
+      "ts": 1717354800,
+      "cash": 951.2794705721263,
+      "cost_basis_equity": 969.2426832950827
+    },
+    {
+      "ts": 1717372800,
+      "cash": 943.2394705721264,
+      "cost_basis_equity": 969.2426832950828
+    },
+    {
+      "ts": 1717376400,
+      "cash": 953.2394705721264,
+      "cost_basis_equity": 971.5726832950827
+    },
+    {
+      "ts": 1717394400,
+      "cash": 945.1833473850794,
+      "cost_basis_equity": 971.5726832950828
+    },
+    {
+      "ts": 1717398000,
+      "cash": 955.1833473850794,
+      "cost_basis_equity": 978.8745862899502
+    },
+    {
+      "ts": 1717437600,
+      "cash": 946.5970373142404,
+      "cost_basis_equity": 978.8745862899502
+    },
+    {
+      "ts": 1717441200,
+      "cash": 946.5970373142404,
+      "cost_basis_equity": 971.2794705721263
+    },
+    {
+      "ts": 1717459200,
+      "cash": 941.5170373142404,
+      "cost_basis_equity": 971.2794705721263
+    },
+    {
+      "ts": 1717462800,
+      "cash": 951.5170373142404,
+      "cost_basis_equity": 973.2394705721263
+    },
+    {
+      "ts": 1717484400,
+      "cash": 961.5170373142404,
+      "cost_basis_equity": 975.1833473850793
+    },
+    {
+      "ts": 1717524000,
+      "cash": 958.6363545094517,
+      "cost_basis_equity": 975.1833473850793
+    },
+    {
+      "ts": 1717527600,
+      "cash": 968.6363545094517,
+      "cost_basis_equity": 976.5970373142404
+    },
+    {
+      "ts": 1717545600,
+      "cash": 967.0063545094517,
+      "cost_basis_equity": 976.5970373142404
+    },
+    {
+      "ts": 1717549200,
+      "cash": 967.0063545094517,
+      "cost_basis_equity": 971.5170373142404
+    },
+    {
+      "ts": 1717567200,
+      "cash": 964.858122841879,
+      "cost_basis_equity": 971.5170373142404
+    },
+    {
+      "ts": 1717610400,
+      "cash": 961.2307775524927,
+      "cost_basis_equity": 971.5170373142404
+    },
+    {
+      "ts": 1717614000,
+      "cash": 961.2307775524927,
+      "cost_basis_equity": 968.6363545094517
+    },
+    {
+      "ts": 1717635600,
+      "cash": 961.2307775524927,
+      "cost_basis_equity": 967.0063545094517
+    },
+    {
+      "ts": 1717653600,
+      "cash": 953.5401683343933,
+      "cost_basis_equity": 967.0063545094517
+    },
+    {
+      "ts": 1717657200,
+      "cash": 953.5401683343933,
+      "cost_basis_equity": 964.858122841879
+    },
+    {
+      "ts": 1717675200,
+      "cash": 950.9701683343933,
+      "cost_basis_equity": 964.8581228418789
+    },
+    {
+      "ts": 1717696800,
+      "cash": 947.1750523936518,
+      "cost_basis_equity": 964.858122841879
+    },
+    {
+      "ts": 1717700400,
+      "cash": 947.1750523936518,
+      "cost_basis_equity": 961.2307775524927
+    },
+    {
+      "ts": 1717718400,
+      "cash": 939.5050523936518,
+      "cost_basis_equity": 961.2307775524927
+    },
+    {
+      "ts": 1717740000,
+      "cash": 933.9278280359734,
+      "cost_basis_equity": 961.2307775524928
+    },
+    {
+      "ts": 1717743600,
+      "cash": 933.9278280359734,
+      "cost_basis_equity": 953.5401683343933
+    },
+    {
+      "ts": 1717765200,
+      "cash": 933.9278280359734,
+      "cost_basis_equity": 950.9701683343934
+    },
+    {
+      "ts": 1717783200,
+      "cash": 926.8641223709309,
+      "cost_basis_equity": 950.9701683343934
+    },
+    {
+      "ts": 1717786800,
+      "cash": 926.8641223709309,
+      "cost_basis_equity": 947.1750523936518
+    },
+    {
+      "ts": 1717804800,
+      "cash": 926.0641223709309,
+      "cost_basis_equity": 947.1750523936519
+    },
+    {
+      "ts": 1717808400,
+      "cash": 926.0641223709309,
+      "cost_basis_equity": 939.5050523936518
+    },
+    {
+      "ts": 1717830000,
+      "cash": 926.0641223709309,
+      "cost_basis_equity": 933.9278280359734
+    },
+    {
+      "ts": 1717869600,
+      "cash": 921.8294315551997,
+      "cost_basis_equity": 933.9278280359734
+    },
+    {
+      "ts": 1717873200,
+      "cash": 921.8294315551997,
+      "cost_basis_equity": 926.8641223709309
+    },
+    {
+      "ts": 1717891200,
+      "cash": 918.5494315551997,
+      "cost_basis_equity": 926.8641223709309
+    },
+    {
+      "ts": 1717894800,
+      "cash": 918.5494315551997,
+      "cost_basis_equity": 926.0641223709309
+    },
+    {
+      "ts": 1717912800,
+      "cash": 917.7574677883048,
+      "cost_basis_equity": 926.0641223709309
+    },
+    {
+      "ts": 1717959600,
+      "cash": 917.7574677883048,
+      "cost_basis_equity": 921.8294315551997
+    },
+    {
+      "ts": 1717981200,
+      "cash": 927.7574677883048,
+      "cost_basis_equity": 928.5494315551997
+    },
+    {
+      "ts": 1717999200,
+      "cash": 925.4553018361562,
+      "cost_basis_equity": 928.5494315551996
+    },
+    {
+      "ts": 1718002800,
+      "cash": 925.4553018361562,
+      "cost_basis_equity": 927.7574677883048
+    },
+    {
+      "ts": 1718020800,
+      "cash": 916.4153018361562,
+      "cost_basis_equity": 927.7574677883048
+    },
+    {
+      "ts": 1718042400,
+      "cash": 913.4934336929821,
+      "cost_basis_equity": 927.7574677883048
+    },
+    {
+      "ts": 1718064000,
+      "cash": 905.0934336929821,
+      "cost_basis_equity": 927.7574677883048
+    },
+    {
+      "ts": 1718085600,
+      "cash": 901.846120758087,
+      "cost_basis_equity": 927.7574677883048
+    },
+    {
+      "ts": 1718089200,
+      "cash": 901.846120758087,
+      "cost_basis_equity": 925.4553018361562
+    },
+    {
+      "ts": 1718107200,
+      "cash": 896.106120758087,
+      "cost_basis_equity": 925.4553018361562
+    },
+    {
+      "ts": 1718110800,
+      "cash": 906.106120758087,
+      "cost_basis_equity": 926.4153018361562
+    },
+    {
+      "ts": 1718128800,
+      "cash": 897.9964521385936,
+      "cost_basis_equity": 926.4153018361562
+    },
+    {
+      "ts": 1718132400,
+      "cash": 897.9964521385936,
+      "cost_basis_equity": 923.4934336929821
+    },
+    {
+      "ts": 1718150400,
+      "cash": 895.1564521385935,
+      "cost_basis_equity": 923.4934336929821
+    },
+    {
+      "ts": 1718154000,
+      "cash": 905.1564521385935,
+      "cost_basis_equity": 925.0934336929821
+    },
+    {
+      "ts": 1718172000,
+      "cash": 899.5881981379681,
+      "cost_basis_equity": 925.0934336929821
+    },
+    {
+      "ts": 1718175600,
+      "cash": 909.5881981379681,
+      "cost_basis_equity": 931.846120758087
+    },
+    {
+      "ts": 1718197200,
+      "cash": 909.5881981379681,
+      "cost_basis_equity": 926.106120758087
+    },
+    {
+      "ts": 1718218800,
+      "cash": 919.5881981379681,
+      "cost_basis_equity": 927.9964521385936
+    },
+    {
+      "ts": 1718236800,
+      "cash": 916.648198137968,
+      "cost_basis_equity": 927.9964521385936
+    },
+    {
+      "ts": 1718240400,
+      "cash": 916.648198137968,
+      "cost_basis_equity": 925.1564521385935
+    },
+    {
+      "ts": 1718258400,
+      "cash": 907.2974378354893,
+      "cost_basis_equity": 925.1564521385935
+    },
+    {
+      "ts": 1718262000,
+      "cash": 907.2974378354893,
+      "cost_basis_equity": 919.588198137968
+    },
+    {
+      "ts": 1718301600,
+      "cash": 905.9834795125126,
+      "cost_basis_equity": 919.588198137968
+    },
+    {
+      "ts": 1718323200,
+      "cash": 905.3534795125126,
+      "cost_basis_equity": 919.588198137968
+    },
+    {
+      "ts": 1718326800,
+      "cash": 905.3534795125126,
+      "cost_basis_equity": 916.648198137968
+    },
+    {
+      "ts": 1718348400,
+      "cash": 915.3534795125126,
+      "cost_basis_equity": 917.2974378354893
+    },
+    {
+      "ts": 1718391600,
+      "cash": 915.3534795125126,
+      "cost_basis_equity": 915.9834795125126
+    },
+    {
+      "ts": 1718413200,
+      "cash": 915.3534795125126,
+      "cost_basis_equity": 915.3534795125126
+    },
+    {
+      "ts": 1718431200,
+      "cash": 908.1203876816362,
+      "cost_basis_equity": 915.3534795125126
+    },
+    {
+      "ts": 1718452800,
+      "cash": 901.8103876816363,
+      "cost_basis_equity": 915.3534795125126
+    },
+    {
+      "ts": 1718474400,
+      "cash": 895.7906008416685,
+      "cost_basis_equity": 915.3534795125126
+    },
+    {
+      "ts": 1718517600,
+      "cash": 893.4458869961753,
+      "cost_basis_equity": 915.3534795125126
+    },
+    {
+      "ts": 1718521200,
+      "cash": 903.4458869961753,
+      "cost_basis_equity": 918.1203876816362
+    },
+    {
+      "ts": 1718542800,
+      "cash": 913.4458869961753,
+      "cost_basis_equity": 921.8103876816363
+    },
+    {
+      "ts": 1718564400,
+      "cash": 913.4458869961753,
+      "cost_basis_equity": 915.7906008416685
+    },
+    {
+      "ts": 1718582400,
+      "cash": 908.1758869961753,
+      "cost_basis_equity": 915.7906008416685
+    },
+    {
+      "ts": 1718604000,
+      "cash": 906.26721464695,
+      "cost_basis_equity": 915.7906008416685
+    },
+    {
+      "ts": 1718607600,
+      "cash": 906.26721464695,
+      "cost_basis_equity": 913.4458869961753
+    },
+    {
+      "ts": 1718625600,
+      "cash": 903.25721464695,
+      "cost_basis_equity": 913.4458869961753
+    },
+    {
+      "ts": 1718647200,
+      "cash": 894.4645145995167,
+      "cost_basis_equity": 913.4458869961753
+    },
+    {
+      "ts": 1718668800,
+      "cash": 889.8845145995167,
+      "cost_basis_equity": 913.4458869961753
+    },
+    {
+      "ts": 1718672400,
+      "cash": 889.8845145995167,
+      "cost_basis_equity": 908.1758869961753
+    },
+    {
+      "ts": 1718690400,
+      "cash": 883.5502282109501,
+      "cost_basis_equity": 908.1758869961752
+    },
+    {
+      "ts": 1718694000,
+      "cash": 883.5502282109501,
+      "cost_basis_equity": 906.26721464695
+    },
+    {
+      "ts": 1718715600,
+      "cash": 883.5502282109501,
+      "cost_basis_equity": 903.25721464695
+    },
+    {
+      "ts": 1718733600,
+      "cash": 881.6147635805911,
+      "cost_basis_equity": 903.25721464695
+    },
+    {
+      "ts": 1718737200,
+      "cash": 891.6147635805911,
+      "cost_basis_equity": 904.4645145995167
+    },
+    {
+      "ts": 1718758800,
+      "cash": 891.6147635805911,
+      "cost_basis_equity": 899.8845145995167
+    },
+    {
+      "ts": 1718780400,
+      "cash": 891.6147635805911,
+      "cost_basis_equity": 893.5502282109501
+    },
+    {
+      "ts": 1718798400,
+      "cash": 886.9647635805911,
+      "cost_basis_equity": 893.5502282109501
+    },
+    {
+      "ts": 1718820000,
+      "cash": 877.7506001869867,
+      "cost_basis_equity": 893.5502282109502
+    },
+    {
+      "ts": 1718823600,
+      "cash": 877.7506001869867,
+      "cost_basis_equity": 891.6147635805911
+    },
+    {
+      "ts": 1718863200,
+      "cash": 871.5834079894323,
+      "cost_basis_equity": 891.6147635805912
+    },
+    {
+      "ts": 1718884800,
+      "cash": 864.0434079894324,
+      "cost_basis_equity": 891.6147635805912
+    },
+    {
+      "ts": 1718888400,
+      "cash": 864.0434079894324,
+      "cost_basis_equity": 886.9647635805912
+    },
+    {
+      "ts": 1718906400,
+      "cash": 856.4015423517953,
+      "cost_basis_equity": 886.9647635805911
+    },
+    {
+      "ts": 1718910000,
+      "cash": 856.4015423517953,
+      "cost_basis_equity": 877.7506001869867
+    },
+    {
+      "ts": 1718928000,
+      "cash": 853.6915423517953,
+      "cost_basis_equity": 877.7506001869867
+    },
+    {
+      "ts": 1718949600,
+      "cash": 846.1550237230872,
+      "cost_basis_equity": 877.7506001869867
+    },
+    {
+      "ts": 1718953200,
+      "cash": 856.1550237230872,
+      "cost_basis_equity": 881.5834079894323
+    },
+    {
+      "ts": 1718971200,
+      "cash": 854.8550237230872,
+      "cost_basis_equity": 881.5834079894323
+    },
+    {
+      "ts": 1718974800,
+      "cash": 864.8550237230872,
+      "cost_basis_equity": 884.0434079894324
+    },
+    {
+      "ts": 1718992800,
+      "cash": 858.7530183242312,
+      "cost_basis_equity": 884.0434079894324
+    },
+    {
+      "ts": 1718996400,
+      "cash": 868.7530183242312,
+      "cost_basis_equity": 886.4015423517953
+    },
+    {
+      "ts": 1719014400,
+      "cash": 863.3930183242312,
+      "cost_basis_equity": 886.4015423517953
+    },
+    {
+      "ts": 1719018000,
+      "cash": 863.3930183242312,
+      "cost_basis_equity": 883.6915423517953
+    },
+    {
+      "ts": 1719036000,
+      "cash": 855.8511738966412,
+      "cost_basis_equity": 883.6915423517953
+    },
+    {
+      "ts": 1719039600,
+      "cash": 855.8511738966412,
+      "cost_basis_equity": 876.1550237230872
+    },
+    {
+      "ts": 1719057600,
+      "cash": 853.9611738966412,
+      "cost_basis_equity": 876.1550237230872
+    },
+    {
+      "ts": 1719061200,
+      "cash": 853.9611738966412,
+      "cost_basis_equity": 874.8550237230872
+    },
+    {
+      "ts": 1719079200,
+      "cash": 849.9117305249205,
+      "cost_basis_equity": 874.8550237230872
+    },
+    {
+      "ts": 1719082800,
+      "cash": 849.9117305249205,
+      "cost_basis_equity": 868.7530183242312
+    },
+    {
+      "ts": 1719100800,
+      "cash": 841.9817305249205,
+      "cost_basis_equity": 868.7530183242313
+    },
+    {
+      "ts": 1719104400,
+      "cash": 851.9817305249205,
+      "cost_basis_equity": 873.3930183242313
+    },
+    {
+      "ts": 1719126000,
+      "cash": 861.9817305249205,
+      "cost_basis_equity": 875.8511738966413
+    },
+    {
+      "ts": 1719144000,
+      "cash": 858.9117305249205,
+      "cost_basis_equity": 875.8511738966412
+    },
+    {
+      "ts": 1719147600,
+      "cash": 858.9117305249205,
+      "cost_basis_equity": 873.9611738966412
+    },
+    {
+      "ts": 1719165600,
+      "cash": 851.3739521635856,
+      "cost_basis_equity": 873.9611738966413
+    },
+    {
+      "ts": 1719169200,
+      "cash": 861.3739521635856,
+      "cost_basis_equity": 879.9117305249205
+    },
+    {
+      "ts": 1719190800,
+      "cash": 871.3739521635856,
+      "cost_basis_equity": 881.9817305249205
+    },
+    {
+      "ts": 1719208800,
+      "cash": 867.2207450755088,
+      "cost_basis_equity": 881.9817305249205
+    },
+    {
+      "ts": 1719230400,
+      "cash": 863.1007450755088,
+      "cost_basis_equity": 881.9817305249205
+    },
+    {
+      "ts": 1719234000,
+      "cash": 863.1007450755088,
+      "cost_basis_equity": 878.9117305249205
+    },
+    {
+      "ts": 1719252000,
+      "cash": 860.7117906595029,
+      "cost_basis_equity": 878.9117305249205
+    },
+    {
+      "ts": 1719255600,
+      "cash": 860.7117906595029,
+      "cost_basis_equity": 871.3739521635855
+    },
+    {
+      "ts": 1719273600,
+      "cash": 851.9117906595029,
+      "cost_basis_equity": 871.3739521635856
+    },
+    {
+      "ts": 1719295200,
+      "cash": 844.1096834215074,
+      "cost_basis_equity": 871.3739521635856
+    },
+    {
+      "ts": 1719298800,
+      "cash": 844.1096834215074,
+      "cost_basis_equity": 867.2207450755088
+    },
+    {
+      "ts": 1719316800,
+      "cash": 837.1196834215074,
+      "cost_basis_equity": 867.2207450755088
+    },
+    {
+      "ts": 1719320400,
+      "cash": 837.1196834215074,
+      "cost_basis_equity": 863.1007450755088
+    },
+    {
+      "ts": 1719338400,
+      "cash": 831.5969194397987,
+      "cost_basis_equity": 863.1007450755088
+    },
+    {
+      "ts": 1719342000,
+      "cash": 831.5969194397987,
+      "cost_basis_equity": 860.7117906595029
+    },
+    {
+      "ts": 1719363600,
+      "cash": 841.5969194397987,
+      "cost_basis_equity": 861.9117906595029
+    },
+    {
+      "ts": 1719385200,
+      "cash": 841.5969194397987,
+      "cost_basis_equity": 854.1096834215074
+    },
+    {
+      "ts": 1719403200,
+      "cash": 838.2969194397988,
+      "cost_basis_equity": 854.1096834215074
+    },
+    {
+      "ts": 1719406800,
+      "cash": 848.2969194397988,
+      "cost_basis_equity": 857.1196834215074
+    },
+    {
+      "ts": 1719424800,
+      "cash": 841.0400583006735,
+      "cost_basis_equity": 857.1196834215074
+    },
+    {
+      "ts": 1719428400,
+      "cash": 841.0400583006735,
+      "cost_basis_equity": 851.5969194397987
+    },
+    {
+      "ts": 1719446400,
+      "cash": 833.7400583006736,
+      "cost_basis_equity": 851.5969194397989
+    },
+    {
+      "ts": 1719489600,
+      "cash": 831.2500583006736,
+      "cost_basis_equity": 851.5969194397989
+    },
+    {
+      "ts": 1719493200,
+      "cash": 831.2500583006736,
+      "cost_basis_equity": 848.2969194397988
+    },
+    {
+      "ts": 1719511200,
+      "cash": 823.6460325413802,
+      "cost_basis_equity": 848.2969194397988
+    },
+    {
+      "ts": 1719514800,
+      "cash": 823.6460325413802,
+      "cost_basis_equity": 841.0400583006736
+    },
+    {
+      "ts": 1719532800,
+      "cash": 820.3260325413802,
+      "cost_basis_equity": 841.0400583006735
+    },
+    {
+      "ts": 1719536400,
+      "cash": 830.3260325413802,
+      "cost_basis_equity": 843.7400583006736
+    },
+    {
+      "ts": 1719554400,
+      "cash": 821.6947654181652,
+      "cost_basis_equity": 843.7400583006736
+    },
+    {
+      "ts": 1719579600,
+      "cash": 821.6947654181652,
+      "cost_basis_equity": 841.2500583006736
+    },
+    {
+      "ts": 1719597600,
+      "cash": 818.6722817190529,
+      "cost_basis_equity": 841.2500583006735
+    },
+    {
+      "ts": 1719601200,
+      "cash": 818.6722817190529,
+      "cost_basis_equity": 833.6460325413801
+    },
+    {
+      "ts": 1719619200,
+      "cash": 815.8022817190529,
+      "cost_basis_equity": 833.6460325413801
+    },
+    {
+      "ts": 1719622800,
+      "cash": 815.8022817190529,
+      "cost_basis_equity": 830.3260325413802
+    },
+    {
+      "ts": 1719640800,
+      "cash": 812.5389797170212,
+      "cost_basis_equity": 830.3260325413802
+    },
+    {
+      "ts": 1719644400,
+      "cash": 812.5389797170212,
+      "cost_basis_equity": 821.6947654181652
+    },
+    {
+      "ts": 1719662400,
+      "cash": 809.4589797170212,
+      "cost_basis_equity": 821.694765418165
+    },
+    {
+      "ts": 1719684000,
+      "cash": 804.8014740109709,
+      "cost_basis_equity": 821.6947654181652
+    },
+    {
+      "ts": 1719687600,
+      "cash": 804.8014740109709,
+      "cost_basis_equity": 818.6722817190529
+    },
+    {
+      "ts": 1719705600,
+      "cash": 799.2514740109709,
+      "cost_basis_equity": 818.672281719053
+    },
+    {
+      "ts": 1719709200,
+      "cash": 799.2514740109709,
+      "cost_basis_equity": 815.802281719053
+    },
+    {
+      "ts": 1719730800,
+      "cash": 799.2514740109709,
+      "cost_basis_equity": 812.5389797170212
+    },
+    {
+      "ts": 1719748800,
+      "cash": 796.7414740109709,
+      "cost_basis_equity": 812.5389797170212
+    },
+    {
+      "ts": 1719752400,
+      "cash": 806.7414740109709,
+      "cost_basis_equity": 819.4589797170213
+    },
+    {
+      "ts": 1719770400,
+      "cash": 805.2137632267219,
+      "cost_basis_equity": 819.4589797170213
+    },
+    {
+      "ts": 1719774000,
+      "cash": 805.2137632267219,
+      "cost_basis_equity": 814.801474010971
+    },
+    {
+      "ts": 1719792000,
+      "cash": 800.0537632267219,
+      "cost_basis_equity": 814.801474010971
+    },
+    {
+      "ts": 1719795600,
+      "cash": 800.0537632267219,
+      "cost_basis_equity": 809.251474010971
+    },
+    {
+      "ts": 1719813600,
+      "cash": 795.0330640802715,
+      "cost_basis_equity": 809.251474010971
+    },
+    {
+      "ts": 1719838800,
+      "cash": 805.0330640802715,
+      "cost_basis_equity": 816.741474010971
+    },
+    {
+      "ts": 1719856800,
+      "cash": 803.3906480725033,
+      "cost_basis_equity": 816.741474010971
+    },
+    {
+      "ts": 1719860400,
+      "cash": 803.3906480725033,
+      "cost_basis_equity": 815.213763226722
+    },
+    {
+      "ts": 1719878400,
+      "cash": 795.9106480725032,
+      "cost_basis_equity": 815.2137632267219
+    },
+    {
+      "ts": 1719882000,
+      "cash": 795.9106480725032,
+      "cost_basis_equity": 810.0537632267219
+    },
+    {
+      "ts": 1719900000,
+      "cash": 793.4275240748465,
+      "cost_basis_equity": 810.0537632267219
+    },
+    {
+      "ts": 1719903600,
+      "cash": 793.4275240748465,
+      "cost_basis_equity": 805.0330640802715
+    },
+    {
+      "ts": 1719921600,
+      "cash": 786.5375240748465,
+      "cost_basis_equity": 805.0330640802715
+    },
+    {
+      "ts": 1719943200,
+      "cash": 779.0935382621019,
+      "cost_basis_equity": 805.0330640802715
+    },
+    {
+      "ts": 1719946800,
+      "cash": 779.0935382621019,
+      "cost_basis_equity": 803.3906480725033
+    },
+    {
+      "ts": 1719968400,
+      "cash": 789.0935382621019,
+      "cost_basis_equity": 805.9106480725032
+    },
+    {
+      "ts": 1719986400,
+      "cash": 781.7427424843762,
+      "cost_basis_equity": 805.9106480725032
+    },
+    {
+      "ts": 1719990000,
+      "cash": 791.7427424843762,
+      "cost_basis_equity": 813.4275240748465
+    },
+    {
+      "ts": 1720008000,
+      "cash": 788.2427424843762,
+      "cost_basis_equity": 813.4275240748465
+    },
+    {
+      "ts": 1720011600,
+      "cash": 798.2427424843762,
+      "cost_basis_equity": 816.5375240748465
+    },
+    {
+      "ts": 1720033200,
+      "cash": 798.2427424843762,
+      "cost_basis_equity": 809.0935382621019
+    },
+    {
+      "ts": 1720051200,
+      "cash": 795.0327424843762,
+      "cost_basis_equity": 809.0935382621019
+    },
+    {
+      "ts": 1720076400,
+      "cash": 795.0327424843762,
+      "cost_basis_equity": 801.7427424843762
+    },
+    {
+      "ts": 1720094400,
+      "cash": 786.9127424843762,
+      "cost_basis_equity": 801.7427424843762
+    },
+    {
+      "ts": 1720098000,
+      "cash": 786.9127424843762,
+      "cost_basis_equity": 798.2427424843762
+    },
+    {
+      "ts": 1720137600,
+      "cash": 781.9627424843761,
+      "cost_basis_equity": 798.2427424843761
+    },
+    {
+      "ts": 1720141200,
+      "cash": 791.9627424843761,
+      "cost_basis_equity": 805.0327424843762
+    },
+    {
+      "ts": 1720159200,
+      "cash": 789.4677193210374,
+      "cost_basis_equity": 805.0327424843762
+    },
+    {
+      "ts": 1720180800,
+      "cash": 782.9577193210374,
+      "cost_basis_equity": 805.0327424843762
+    },
+    {
+      "ts": 1720184400,
+      "cash": 792.9577193210374,
+      "cost_basis_equity": 806.9127424843762
+    },
+    {
+      "ts": 1720202400,
+      "cash": 787.1139724501708,
+      "cost_basis_equity": 806.9127424843762
+    },
+    {
+      "ts": 1720224000,
+      "cash": 782.8239724501708,
+      "cost_basis_equity": 806.9127424843762
+    },
+    {
+      "ts": 1720227600,
+      "cash": 792.8239724501708,
+      "cost_basis_equity": 811.9627424843761
+    },
+    {
+      "ts": 1720245600,
+      "cash": 787.4579735041483,
+      "cost_basis_equity": 811.9627424843761
+    },
+    {
+      "ts": 1720249200,
+      "cash": 787.4579735041483,
+      "cost_basis_equity": 809.4677193210374
+    },
+    {
+      "ts": 1720270800,
+      "cash": 797.4579735041483,
+      "cost_basis_equity": 812.9577193210374
+    },
+    {
+      "ts": 1720292400,
+      "cash": 797.4579735041483,
+      "cost_basis_equity": 807.1139724501708
+    },
+    {
+      "ts": 1720314000,
+      "cash": 797.4579735041483,
+      "cost_basis_equity": 802.8239724501708
+    },
+    {
+      "ts": 1720335600,
+      "cash": 797.4579735041483,
+      "cost_basis_equity": 797.4579735041483
+    }
+  ]
+}

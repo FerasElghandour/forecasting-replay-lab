@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prediction-lab"
+version = "0.1.0"
+description = "Read-only prediction market forecasting and paper research"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24,<3"]
+
+[project.scripts]
+prediction-lab = "prediction_lab.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["prediction_lab*"]

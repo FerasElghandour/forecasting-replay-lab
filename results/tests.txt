@@ -1,0 +1,41 @@
+test_candle_close_time_not_open_time (test_lab.APITests.test_candle_close_time_not_open_time) ... ok
+test_nonbinary_rejected (test_lab.APITests.test_nonbinary_rejected) ... ok
+test_outcome_label_mapping_and_protocol_version (test_lab.APITests.test_outcome_label_mapping_and_protocol_version) ... ok
+test_polymarket_history_never_invents_executable_quotes (test_lab.APITests.test_polymarket_history_never_invents_executable_quotes) ... ok
+test_polymarket_labels_must_be_independently_audited (test_lab.APITests.test_polymarket_labels_must_be_independently_audited) ... ok
+test_public_adapter_rejects_account_endpoints (test_lab.APITests.test_public_adapter_rejects_account_endpoints) ... ok
+test_v2_pagination_and_range_chunking (test_lab.APITests.test_v2_pagination_and_range_chunking) ... ok
+test_already_known_outcome_rejected (test_lab.ContractTests.test_already_known_outcome_rejected) ... ok
+test_crossed_quotes_rejected (test_lab.ContractTests.test_crossed_quotes_rejected) ... ok
+test_duplicates_rejected (test_lab.ContractTests.test_duplicates_rejected) ... ok
+test_event_weights (test_lab.ContractTests.test_event_weights) ... ok
+test_future_evidence_rejected (test_lab.ContractTests.test_future_evidence_rejected) ... ok
+test_future_features_rejected (test_lab.ContractTests.test_future_features_rejected) ... ok
+test_nan_rejected (test_lab.ContractTests.test_nan_rejected) ... ok
+test_unlabeled_inference (test_lab.ContractTests.test_unlabeled_inference) ... ok
+test_identity_beta_map (test_lab.ModelTests.test_identity_beta_map) ... ok
+test_labels_not_used_in_prediction (test_lab.ModelTests.test_labels_not_used_in_prediction) ... ok
+test_optimizer_recovers_intercept (test_lab.ModelTests.test_optimizer_recovers_intercept) ... ok
+test_probabilities_and_serialization (test_lab.ModelTests.test_probabilities_and_serialization) ... ok
+test_cash_is_locked (test_lab.PaperTests.test_cash_is_locked) ... ok
+test_cost_stress_monotonic_for_fixed_trade (test_lab.PaperTests.test_cost_stress_monotonic_for_fixed_trade) ... ok
+test_event_exposure_cap (test_lab.PaperTests.test_event_exposure_cap) ... ok
+test_future_fees_do_not_leak (test_lab.PaperTests.test_future_fees_do_not_leak) ... ok
+test_kalshi_conservative_rounding (test_lab.PaperTests.test_kalshi_conservative_rounding) ... ok
+test_limited_depth_skip (test_lab.PaperTests.test_limited_depth_skip) ... ok
+test_missing_fee_and_depth_default_skip (test_lab.PaperTests.test_missing_fee_and_depth_default_skip) ... ok
+test_no_double_count_spread_and_settlement_pnl (test_lab.PaperTests.test_no_double_count_spread_and_settlement_pnl) ... ok
+test_no_synthetic_midpoint_fills (test_lab.PaperTests.test_no_synthetic_midpoint_fills) ... ok
+test_polymarket_current_fee (test_lab.PaperTests.test_polymarket_current_fee) ... ok
+test_stale_quotes_skip (test_lab.PaperTests.test_stale_quotes_skip) ... ok
+test_future_outcomes_cannot_change_earlier_forecasts (test_lab.TimeSafetyTests.test_future_outcomes_cannot_change_earlier_forecasts) ... ok
+test_metric_reference (test_lab.TimeSafetyTests.test_metric_reference) ... ok
+test_planted_signal_detected (test_lab.TimeSafetyTests.test_planted_signal_detected) ... ok
+test_sibling_event_cannot_leak_from_train_to_test (test_lab.TimeSafetyTests.test_sibling_event_cannot_leak_from_train_to_test) ... ok
+test_stage_order_and_disjoint_events (test_lab.TimeSafetyTests.test_stage_order_and_disjoint_events) ... ok
+test_unresolved_labels_purged (test_lab.TimeSafetyTests.test_unresolved_labels_purged) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 0.286s
+
+OK

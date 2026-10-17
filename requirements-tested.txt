@@ -1,0 +1,2 @@
+# Exact numerical dependency used for the supplied results.
+numpy==2.4.4
